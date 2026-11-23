@@ -1,0 +1,101 @@
+{
+ "version": "0.7",
+ "synthetic": false,
+ "data_status": "complete",
+ "note": "From the merged facts DB: the New York Herald, Tribune and Sun, the Washington Evening Star, Lloyd's List (cited, not displayable; all 131 issues, 1 May – 29 September; table rows anchor a voyage unless flagged voyage_anchor = false), the Newfoundland papers (Memorial University of Newfoundland) and the London Sun and Express (British Library, Heritage Made Digital), with the Hubbard & Winter mail sailings (status 'unconfirmed' = Hubbard & Winter only). All sources read; one voyage compile across all sources. The Liverpool news-lag series is partial (its own meta in news-lag.json). SAIL: from the sail model (routes reconstructed from Spoken positions), assembled from the merged facts DB (all papers); Lloyd's List table rows anchor unless flagged voyage_anchor = false. Sail voyages outside New York are mostly one-ended and fade in or out.",
+ "built": "2026-11-23T15:59Z",
+ "story_window": {
+  "from": "1866-05-01",
+  "to": "1866-08-31"
+ },
+ "data_window": {
+  "from": "1866-05-01",
+  "to": "1866-09-30"
+ },
+ "chunks": [
+  {
+   "month": "1866-05",
+   "file": "voyages-1866-05.json",
+   "voyages": 2697
+  },
+  {
+   "month": "1866-06",
+   "file": "voyages-1866-06.json",
+   "voyages": 2783
+  },
+  {
+   "month": "1866-07",
+   "file": "voyages-1866-07.json",
+   "voyages": 2831
+  },
+  {
+   "month": "1866-08",
+   "file": "voyages-1866-08.json",
+   "voyages": 2550
+  },
+  {
+   "month": "1866-09",
+   "file": "voyages-1866-09.json",
+   "voyages": 1565
+  }
+ ],
+ "counts": {
+  "voyages": 6678,
+  "steam": 742,
+  "sail": 5936,
+  "confirmed": 1835,
+  "one_ended": 4721,
+  "unconfirmed": 122,
+  "featured": 6,
+  "hubbard_winter_only": 9,
+  "fixes": 11947,
+  "outliers": 412,
+  "featured_duplicates_suppressed": 2,
+  "vessels": 4332,
+  "places": 373,
+  "images": 30,
+  "sail_confirmed": 1338,
+  "sail_one_ended": 4487,
+  "sail_unconfirmed": 111,
+  "held_back_land": 4
+ },
+ "model": {
+  "name": "steam-evidence-routes-gp",
+  "version": "2",
+  "routes": "evidence corridors fitted to the Spoken positions of 1866, no Maury lanes",
+  "prior": {
+   "fleet_speed_kn_westbound": 7.7,
+   "fleet_speed_kn_eastbound": 8.47,
+   "sd_log_speed": {
+    "line": 0.2116,
+    "linedir": 0.0153,
+    "ship": 0.0993,
+    "week": 0.041,
+    "voyage": 0.1015
+   },
+   "legs": 567
+  },
+  "inputs": [
+   "merged"
+  ],
+  "sail": {
+   "name": "sail-corridor-gp",
+   "version": "1",
+   "passage_prior": {
+    "speed_kn_eastbound": 4.33,
+    "speed_kn_westbound": 3.18,
+    "sd_log_speed": 0.224,
+    "passages": 1490
+   },
+   "q_along_nm2_per_h": 600.0,
+   "band": "80% radius, nm",
+   "inputs": [
+    "merged"
+   ],
+   "data_window": {
+    "from": "1866-05-01",
+    "to": "1866-09-30"
+   }
+  }
+ }
+}

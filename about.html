@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About · Atlantic 1866</title>
+<meta name="description" content="Visualizing information and shipping in the Victorian Age.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlantic 1866">
+<meta property="og:title" content="Atlantic 1866 · The Tyranny of Distance">
+<meta property="og:description" content="Visualizing information and shipping in the Victorian Age.">
+<meta property="og:url" content="https://atlantic-1866.com/about.html">
+<meta property="og:image" content="https://atlantic-1866.com/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Atlantic 1866: The Tyranny of Distance. Visualizing information and shipping in the Victorian Age.">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22%3E%3Cpath fill=%22%23aa3606%22 d=%22M0.8 13.8H23.4L21 18.9H3.4Q1.6 16.9 0.8 13.8ZM7 13.9A4.4 4.4 0 0 1 15.8 13.9ZM10 4.8H13.2V11H10ZM4.2 3H5.8V13.9H4.2ZM17.8 3H19.4V13.9H17.8Z%22/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Oswald:wght@500;600&display=swap" rel="stylesheet">
+<script>
+  (function () { var t = new URLSearchParams(location.search).get('theme'); try { if (!t) t = localStorage.getItem('tod-theme'); } catch (e) {}
+    if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t); })();
+</script>
+  <script type="module" crossorigin src="./assets/about-BQ-nm0q8.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/kit-ZZDi59fE.js">
+  <link rel="stylesheet" crossorigin href="./assets/kit-bLboDnrx.css">
+  <link rel="stylesheet" crossorigin href="./assets/about-BwDyO0Ln.css">
+</head>
+<body class="kit about-page">
+<main class="about">
+  <p><a href="index.html" id="back">← Map</a></p>
+  <header>
+    <p class="t-kicker" data-text="kicker">The Tyranny of Distance</p>
+    <h1 class="t-display">About</h1>
+    <hr class="rule rule-swell">
+  </header>
+  <section class="about-intro" aria-label="About this project">
+    <div data-text="about.intro"><p>Hi! I'm <a href="https://www.nadiawadzinski.com/" target="_blank" rel="noopener">Nadia Wadzinski</a>, an ex-historian turned software engineer turned AI engineer. This project represents a dream I had when I was a history PhD student studying news and information in the 19th century, but which I thought I would never have time to do: to build an interactive visualization of information, news, and travel, from real data sources. Like one of those airplane tracker apps, but for the 19th century.</p>
+<p>This is a very early proof-of-concept version of the project; I expect to add much more data, features, and above all, interpretive explanations. Data is fun to play with, but history is more than facts and data. Not to mention that a great deal has been written on this subject, which I would like to cite.</p>
+<p>And there's so much more we could do. Perhaps I will even expand things beyond 1866 and to other parts of the world. Or we could add rail networks, and overland telegraph lines. The data for all that is lying there locked up in books and newspapers, and we just need to pull it out.</p>
+<p>This project is also an experiment in using AI to make digital history. I used a coding agent to create the code for the site, and also to pull out about 290,000 bits of raw data used to build the visualization. LLMs are now extremely good at reading badly scanned text, often with no usable OCR, and pulling out correct information. This opens up all sorts of possibilities for projects that would previously have required months of tedium or an army of research assistants, but which can now be done for the price of a monthly Claude subscription. I am excited to see what the history profession can do with these tools in the coming years.</p></div>
+  </section>
+  <hr class="rule rule-thick-thin">
+  <section aria-labelledby="h-sources">
+    <h2 class="t-deck" id="h-sources">The sources</h2>
+    <div data-text="about.sources"><p>This map is built from shipping news printed in newspapers in the summer of 1866. In New York: the <em>New York Herald</em>, the <em>New York Tribune</em>, and the <em>Sun</em>; in Washington, the <em>Evening Star</em>. In London: <em>Lloyd's List</em>, every issue from May to September, and the London <em>Sun</em> and <em>Express</em>. From Newfoundland, nine local papers covering the cable landing at Heart's Content.</p>
+<p>These papers printed arrivals and departures, ships &quot;spoken&quot; at sea with their positions, and the dates of the latest news brought by each steamer. AI agents based on Anthropic's Claude models read every relevant page and recorded about 290,000 individual facts, each linked back to its source page. The readings were cross-checked several times, and I spot-checked a sample by hand. Ships were identified against <em>Lloyd's Register</em>, the <em>American Lloyd's Register</em>, and the <em>Mercantile Navy List</em> for 1866. Mail-steamer sailings were checked against Hubbard and Winter, <em>North Atlantic Mail Sailings 1840–75</em>.</p></div>
+  </section>
+  <hr class="rule rule-thick-thin">
+  <section aria-labelledby="h-model">
+    <h2 class="t-deck" id="h-model">The model</h2>
+    <div data-text="about.model"><p>The positions of ships at sea are reconstructions from available data. Newspapers only report where a ship was at a few key moments: when she sailed, when she was &quot;spoken&quot; at sea by another ship, and when she arrived. The map shows about 6,700 crossings: 742 by steam and about 5,900 under sail. About 1,850 are known from both ends; the rest from one end only, with the other end estimated from typical passage times in the more complete data.</p>
+<p>Steamers follow routes fitted to some 700 positions reported at sea by steamers that summer, not to any assumed shipping lane, at speeds based on each line's and each ship's other crossings. Tested against &quot;spoken&quot; positions (latitude and longitude) withheld from the model, the reconstructed positions are typically within about 60 nautical miles of the reported position. Sailing ships are much less certain, typically within about 230 nautical miles. A paler sailing ship is one whose position is less certain.</p>
+<p>The news lag is the age of the freshest news from across the Atlantic printed in a New York or London paper on a given day, taken from the datelines and the arrival of the ship that carried that news.</p></div>
+  </section>
+  <hr class="rule rule-thick-thin">
+  <section aria-labelledby="h-table">
+    <h2 class="t-deck" id="h-table">Table of sources</h2>
+    <div class="bradshaw">
+      <div class="table-head"><h3>Table 1. Sources</h3><span class="read" id="data-status"></span></div>
+      <div class="table-scroll"><table id="sources-table"><thead><tr><th scope="col">Source</th><th scope="col">Holder</th><th scope="col">Dates</th><th scope="col">License</th><th scope="col">Shown as</th><th scope="col">Counts</th><th scope="col">Link</th></tr></thead><tbody></tbody></table></div>
+    </div>
+  </section>
+  <hr class="rule rule-thick-thin">
+  <section aria-labelledby="h-credits">
+    <h2 class="t-deck" id="h-credits">Credits</h2>
+    <div data-text="about.credits"><p>Created by <a href="https://www.nadiawadzinski.com/" target="_blank" rel="noopener">Nadia Wadzinski</a>.</p>
+<p>Text and data: CC BY 4.0. Newspaper scans are shown courtesy of their holders, listed in the table above. Ship pictures are public domain or free of known restrictions; each is credited on the ship's card.</p></div>
+    <p class="t-credit">Fonts: Abril Fatface, Old Standard TT, Oswald (SIL Open Font License). Map library: MapLibre GL JS (BSD-3-Clause). Base map: GSHHG 2.3.7 (LGPL), NOAA ETOPO 2022 (public domain). Charts: d3 (ISC).</p>
+  </section>
+  <hr class="rule rule-fret">
+</main>
+</body>
+</html>

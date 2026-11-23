@@ -1,0 +1,337 @@
+[
+ {
+  "title": "New York Herald",
+  "holder": "Library of Congress, Chronicling America",
+  "dates": [
+   "1866-05-01",
+   "1866-09-30"
+  ],
+  "licence": "No known restrictions",
+  "display": "crops (IIIF)",
+  "link": "https://chroniclingamerica.loc.gov/lccn/sn83030313/",
+  "counts": {
+   "issues": 153,
+   "pages": 860,
+   "facts": 75201,
+   "voyages": 3875
+  }
+ },
+ {
+  "title": "New-York Tribune",
+  "holder": "Library of Congress, Chronicling America",
+  "dates": [
+   "1866-05-01",
+   "1866-09-29"
+  ],
+  "licence": "No known restrictions",
+  "display": "crops (IIIF)",
+  "link": "https://chroniclingamerica.loc.gov/lccn/sn83030214/",
+  "counts": {
+   "issues": 129,
+   "pages": 229,
+   "facts": 14758,
+   "voyages": 1527
+  }
+ },
+ {
+  "title": "The Sun (New York)",
+  "holder": "Library of Congress, Chronicling America",
+  "dates": [
+   "1866-05-01",
+   "1866-09-29"
+  ],
+  "licence": "No known restrictions",
+  "display": "crops (IIIF)",
+  "link": "https://chroniclingamerica.loc.gov/lccn/sn83030272/",
+  "counts": {
+   "issues": 130,
+   "pages": 246,
+   "facts": 8657,
+   "voyages": 970
+  }
+ },
+ {
+  "title": "Evening Star (Washington)",
+  "holder": "Library of Congress, Chronicling America",
+  "dates": [
+   "1866-05-01",
+   "1866-09-29"
+  ],
+  "licence": "No known restrictions",
+  "display": "crops (IIIF)",
+  "link": "https://chroniclingamerica.loc.gov/lccn/sn83045462/",
+  "counts": {
+   "issues": 130,
+   "pages": 285,
+   "facts": 4256,
+   "voyages": 76
+  }
+ },
+ {
+  "title": "Lloyd's List",
+  "holder": "British Newspaper Archive (original: British Library)",
+  "dates": [
+   "1866-05-01",
+   "1866-09-29"
+  ],
+  "licence": "Restricted",
+  "display": "citation only",
+  "link": "https://www.britishnewspaperarchive.co.uk/titles/lloyds-list",
+  "counts": {
+   "issues": 131,
+   "pages": 839,
+   "facts": 174286,
+   "voyages": 5481
+  }
+ },
+ {
+  "title": "The Sun (London)",
+  "holder": "British Library, Heritage Made Digital",
+  "dates": [
+   "1866-04-25",
+   "1866-10-05"
+  ],
+  "licence": "CC BY 4.0",
+  "display": "text citation",
+  "link": "https://doi.org/10.5281/zenodo.15056046",
+  "counts": {
+   "issues": 139,
+   "facts": 3299
+  }
+ },
+ {
+  "title": "The Express (London)",
+  "holder": "British Library, Heritage Made Digital",
+  "dates": [
+   "1866-04-25",
+   "1866-10-05"
+  ],
+  "licence": "CC BY 4.0",
+  "display": "text citation",
+  "link": "https://doi.org/10.5281/zenodo.15056046",
+  "counts": {
+   "issues": 136,
+   "facts": 1269
+  }
+ },
+ {
+  "title": "Courier (St John's)",
+  "holder": "Memorial University of Newfoundland, Digital Archives Initiative",
+  "dates": [
+   "1866-05-02",
+   "1866-09-29"
+  ],
+  "licence": "CC BY-NC-ND 2.5 Canada",
+  "display": "citation and link",
+  "link": "https://collections.mun.ca/digital/collection/morncourier",
+  "counts": {
+   "pages": 95,
+   "facts": 1326
+  }
+ },
+ {
+  "title": "Harbor Grace Standard",
+  "holder": "Memorial University of Newfoundland, Digital Archives Initiative",
+  "dates": [
+   "1866-05-02",
+   "1866-09-26"
+  ],
+  "licence": "CC BY-NC-ND 2.5 Canada",
+  "display": "citation and link",
+  "link": "https://collections.mun.ca/digital/collection/hgstandard",
+  "counts": {
+   "pages": 57,
+   "facts": 672
+  }
+ },
+ {
+  "title": "Morning Chronicle (St John's)",
+  "holder": "Memorial University of Newfoundland, Digital Archives Initiative",
+  "dates": [
+   "1866-05-01",
+   "1866-09-29"
+  ],
+  "licence": "CC BY-NC-ND 2.5 Canada",
+  "display": "citation and link",
+  "link": "https://collections.mun.ca/digital/collection/mchronicle",
+  "counts": {
+   "pages": 235,
+   "facts": 1942
+  }
+ },
+ {
+  "title": "Newfoundland Express (St John's)",
+  "holder": "Memorial University of Newfoundland, Digital Archives Initiative",
+  "dates": [
+   "1866-05-02",
+   "1866-09-29"
+  ],
+  "licence": "CC BY-NC-ND 2.5 Canada",
+  "display": "citation and link",
+  "link": "https://collections.mun.ca/digital/collection/nfldexpress",
+  "counts": {
+   "pages": 117,
+   "facts": 1639
+  }
+ },
+ {
+  "title": "Newfoundlander (St John's)",
+  "holder": "Memorial University of Newfoundland, Digital Archives Initiative",
+  "dates": [
+   "1866-05-03",
+   "1866-09-27"
+  ],
+  "licence": "CC BY-NC-ND 2.5 Canada",
+  "display": "citation and link",
+  "link": "https://collections.mun.ca/digital/collection/newfoundland",
+  "counts": {
+   "pages": 88,
+   "facts": 1075
+  }
+ },
+ {
+  "title": "Patriot and Terra Nova Herald (St John's)",
+  "holder": "Memorial University of Newfoundland, Digital Archives Initiative",
+  "dates": [
+   "1866-05-09",
+   "1866-09-29"
+  ],
+  "licence": "CC BY-NC-ND 2.5 Canada",
+  "display": "citation and link",
+  "link": "https://collections.mun.ca/digital/collection/the_patriot",
+  "counts": {
+   "pages": 21,
+   "facts": 78
+  }
+ },
+ {
+  "title": "Public Ledger (St John's)",
+  "holder": "Memorial University of Newfoundland, Digital Archives Initiative",
+  "dates": [
+   "1866-05-01",
+   "1866-09-28"
+  ],
+  "licence": "CC BY-NC-ND 2.5 Canada",
+  "display": "citation and link",
+  "link": "https://collections.mun.ca/digital/collection/publicledger",
+  "counts": {
+   "pages": 94,
+   "facts": 530
+  }
+ },
+ {
+  "title": "The Telegraph (St John's)",
+  "holder": "Memorial University of Newfoundland, Digital Archives Initiative",
+  "dates": [
+   "1866-05-02",
+   "1866-09-25"
+  ],
+  "licence": "CC BY-NC-ND 2.5 Canada",
+  "display": "citation and link",
+  "link": "https://collections.mun.ca/digital/collection/telegraph",
+  "counts": {
+   "pages": 48,
+   "facts": 345
+  }
+ },
+ {
+  "title": "Times and General Commercial Gazette (St John's)",
+  "holder": "Memorial University of Newfoundland, Digital Archives Initiative",
+  "dates": [
+   "1866-05-02",
+   "1866-09-29"
+  ],
+  "licence": "CC BY-NC-ND 2.5 Canada",
+  "display": "citation and link",
+  "link": "https://collections.mun.ca/digital/collection/timesgeneral",
+  "counts": {
+   "pages": 107,
+   "facts": 1181
+  }
+ },
+ {
+  "title": "Hubbard & Winter, North Atlantic Mail Sailings 1840–75 (1988; rev. 2014)",
+  "holder": "U.S. Philatelic Classics Society",
+  "dates": [
+   "1866-01-01",
+   "1866-12-31"
+  ],
+  "licence": "Cited",
+  "display": "citation only",
+  "link": "https://www.uspcs.org/wp-content/uploads/2014/08/North_Atlantic_Mail_Sailings_1840-75_with_Revisions.pdf",
+  "counts": {
+   "facts": 1114,
+   "voyages": 393
+  }
+ },
+ {
+  "title": "Lloyd's Register of British and Foreign Shipping, 1865–66 and 1866–67",
+  "holder": "Lloyd's Register Foundation, Heritage & Education Centre, via Internet Archive",
+  "dates": [
+   "1865-07-01",
+   "1867-06-30"
+  ],
+  "licence": "CC BY-SA 4.0",
+  "display": "citation and scan link",
+  "link": "https://archive.org/details/HECROS1866",
+  "counts": {
+   "entries": 26166,
+   "matches": 617
+  }
+ },
+ {
+  "title": "American Lloyd's Register of American and Foreign Shipping, 1866",
+  "holder": "Mystic Seaport Museum",
+  "dates": [
+   "1866-01-01",
+   "1866-12-31"
+  ],
+  "licence": "Cited",
+  "display": "citation and scan link",
+  "link": "https://research.mysticseaport.org/item/l0237571866/",
+  "counts": {
+   "entries": 16956,
+   "matches": 1056
+  }
+ },
+ {
+  "title": "The Mercantile Navy List, 1866",
+  "holder": "Internet Archive",
+  "dates": [
+   "1866-01-01",
+   "1866-12-31"
+  ],
+  "licence": "Public domain",
+  "display": "citation and scan link",
+  "link": "https://archive.org/details/mercantilenavylist1866",
+  "counts": {
+   "entries": 36758,
+   "matches": 40
+  }
+ },
+ {
+  "title": "Postal covers, 1866",
+  "holder": "Auction records, exhibits and museum catalogues (various)",
+  "dates": [
+   "1866-01-01",
+   "1866-12-31"
+  ],
+  "licence": "Restricted (images not shown)",
+  "display": "citation and link",
+  "link": null,
+  "counts": {
+   "covers": 19
+  }
+ },
+ {
+  "title": "Ship portraits (lithographs, engravings, photographs)",
+  "holder": "Wikimedia Commons, Library of Congress, Royal Museums Greenwich and others",
+  "dates": null,
+  "licence": "Public domain, CC0 or no known restrictions",
+  "display": "image, credited",
+  "link": "https://commons.wikimedia.org/",
+  "counts": {
+   "images": 30
+  }
+ }
+]

@@ -1,0 +1,4165 @@
+{
+"new_york": [
+{
+"date": "1866-05-01",
+"age_days": 11,
+"carrier_voyage_id": "V-hibernian-660419-550c40",
+"via": "steamer",
+"news_date": "1866-04-20",
+"carrier": "Hibernian",
+"source": "carried_news herald:Le4aae7086d703918"
+},
+{
+"date": "1866-05-02",
+"age_days": 10,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-22",
+"carrier": null,
+"source": "dateline herald:L7a051e3e4ae2b891"
+},
+{
+"date": "1866-05-03",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-22",
+"carrier": null,
+"source": "dateline herald:L7a051e3e4ae2b891"
+},
+{
+"date": "1866-05-04",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-22",
+"carrier": null,
+"source": "dateline herald:L7a051e3e4ae2b891"
+},
+{
+"date": "1866-05-05",
+"age_days": 13,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-22",
+"carrier": null,
+"source": "dateline herald:L7a051e3e4ae2b891"
+},
+{
+"date": "1866-05-06",
+"age_days": 14,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-22",
+"carrier": null,
+"source": "dateline herald:L7a051e3e4ae2b891"
+},
+{
+"date": "1866-05-07",
+"age_days": 10,
+"carrier_voyage_id": "V-peruvian-660426-8564cd",
+"via": "steamer",
+"news_date": "1866-04-27",
+"carrier": "Peruvian",
+"source": "carried_news herald:Lae93e6ab84ab1f15"
+},
+{
+"date": "1866-05-08",
+"age_days": 9,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-29",
+"carrier": null,
+"source": "dateline herald:Leb06f4ccb7ec33b3"
+},
+{
+"date": "1866-05-09",
+"age_days": 10,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-29",
+"carrier": null,
+"source": "dateline herald:Leb06f4ccb7ec33b3"
+},
+{
+"date": "1866-05-10",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-29",
+"carrier": null,
+"source": "dateline herald:Leb06f4ccb7ec33b3"
+},
+{
+"date": "1866-05-11",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-29",
+"carrier": null,
+"source": "dateline herald:Leb06f4ccb7ec33b3"
+},
+{
+"date": "1866-05-12",
+"age_days": 13,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-29",
+"carrier": null,
+"source": "dateline herald:Leb06f4ccb7ec33b3"
+},
+{
+"date": "1866-05-13",
+"age_days": 14,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-29",
+"carrier": null,
+"source": "dateline herald:Leb06f4ccb7ec33b3"
+},
+{
+"date": "1866-05-14",
+"age_days": 11,
+"carrier_voyage_id": "V-germania-660429-1dbdce",
+"via": "steamer",
+"news_date": "1866-05-03",
+"carrier": "Germania",
+"source": "carried_news herald:L1a9850b58eb24826"
+},
+{
+"date": "1866-05-15",
+"age_days": 11,
+"carrier_voyage_id": "V-moravian-660503-498bc6",
+"via": "steamer",
+"news_date": "1866-05-04",
+"carrier": "Moravian",
+"source": "carried_news herald:L8cd9a8e20805508d"
+},
+{
+"date": "1866-05-16",
+"age_days": 12,
+"carrier_voyage_id": "V-moravian-660503-498bc6",
+"via": "steamer",
+"news_date": "1866-05-04",
+"carrier": "Moravian",
+"source": "carried_news herald:L8cd9a8e20805508d"
+},
+{
+"date": "1866-05-17",
+"age_days": 11,
+"carrier_voyage_id": "V-java-660505-980fce",
+"via": "steamer",
+"news_date": "1866-05-06",
+"carrier": "Java",
+"source": "carried_news herald:Lf73e0d04d9ff80cf"
+},
+{
+"date": "1866-05-18",
+"age_days": 12,
+"carrier_voyage_id": "V-java-660505-980fce",
+"via": "steamer",
+"news_date": "1866-05-06",
+"carrier": "Java",
+"source": "carried_news herald:Lf73e0d04d9ff80cf"
+},
+{
+"date": "1866-05-19",
+"age_days": 13,
+"carrier_voyage_id": "V-java-660505-980fce",
+"via": "steamer",
+"news_date": "1866-05-06",
+"carrier": "Java",
+"source": "carried_news herald:Lf73e0d04d9ff80cf"
+},
+{
+"date": "1866-05-20",
+"age_days": 14,
+"carrier_voyage_id": "V-java-660505-980fce",
+"via": "steamer",
+"news_date": "1866-05-06",
+"carrier": "Java",
+"source": "carried_news herald:Lf73e0d04d9ff80cf"
+},
+{
+"date": "1866-05-21",
+"age_days": 15,
+"carrier_voyage_id": "V-java-660505-980fce",
+"via": "steamer",
+"news_date": "1866-05-06",
+"carrier": "Java",
+"source": "carried_news herald:Lf73e0d04d9ff80cf"
+},
+{
+"date": "1866-05-22",
+"age_days": 9,
+"carrier_voyage_id": "V-cuba-660512-25d3fa",
+"via": "steamer",
+"news_date": "1866-05-13",
+"carrier": "Cuba",
+"source": "carried_news herald:Ldcd54001e8fdde71"
+},
+{
+"date": "1866-05-23",
+"age_days": 10,
+"carrier_voyage_id": "V-cuba-660512-25d3fa",
+"via": "steamer",
+"news_date": "1866-05-13",
+"carrier": "Cuba",
+"source": "carried_news herald:Ldcd54001e8fdde71"
+},
+{
+"date": "1866-05-24",
+"age_days": 11,
+"carrier_voyage_id": "V-cuba-660512-25d3fa",
+"via": "steamer",
+"news_date": "1866-05-13",
+"carrier": "Cuba",
+"source": "carried_news herald:Ldcd54001e8fdde71"
+},
+{
+"date": "1866-05-25",
+"age_days": 12,
+"carrier_voyage_id": "V-cuba-660512-25d3fa",
+"via": "steamer",
+"news_date": "1866-05-13",
+"carrier": "Cuba",
+"source": "carried_news herald:Ldcd54001e8fdde71"
+},
+{
+"date": "1866-05-26",
+"age_days": 13,
+"carrier_voyage_id": "V-cuba-660512-25d3fa",
+"via": "steamer",
+"news_date": "1866-05-13",
+"carrier": "Cuba",
+"source": "carried_news herald:Ldcd54001e8fdde71"
+},
+{
+"date": "1866-05-27",
+"age_days": 12,
+"carrier_voyage_id": "V-america-660513-819305",
+"via": "steamer",
+"news_date": "1866-05-15",
+"carrier": "America",
+"source": "carried_news herald:L8389c7358d0eee0c"
+},
+{
+"date": "1866-05-28",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-boston-660516-3b81d6",
+"via": "steamer",
+"news_date": "1866-05-17",
+"carrier": "City of Boston",
+"source": "carried_news herald:L300233642e60562a"
+},
+{
+"date": "1866-05-29",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-boston-660516-3b81d6",
+"via": "steamer",
+"news_date": "1866-05-17",
+"carrier": "City of Boston",
+"source": "carried_news herald:L300233642e60562a"
+},
+{
+"date": "1866-05-30",
+"age_days": 10,
+"carrier_voyage_id": "V-st-david-660517-0263e7",
+"via": "steamer",
+"news_date": "1866-05-20",
+"carrier": "St. David",
+"source": "carried_news herald:L7090b6a6636c6bb2"
+},
+{
+"date": "1866-05-31",
+"age_days": 11,
+"carrier_voyage_id": "V-st-david-660517-0263e7",
+"via": "steamer",
+"news_date": "1866-05-20",
+"carrier": "St. David",
+"source": "carried_news herald:L7090b6a6636c6bb2"
+},
+{
+"date": "1866-06-01",
+"age_days": 12,
+"carrier_voyage_id": "V-st-david-660517-0263e7",
+"via": "steamer",
+"news_date": "1866-05-20",
+"carrier": "St. David",
+"source": "carried_news herald:L7090b6a6636c6bb2"
+},
+{
+"date": "1866-06-02",
+"age_days": 13,
+"carrier_voyage_id": "V-st-david-660517-0263e7",
+"via": "steamer",
+"news_date": "1866-05-20",
+"carrier": "St. David",
+"source": "carried_news herald:L7090b6a6636c6bb2"
+},
+{
+"date": "1866-06-03",
+"age_days": 14,
+"carrier_voyage_id": "V-st-david-660517-0263e7",
+"via": "steamer",
+"news_date": "1866-05-20",
+"carrier": "St. David",
+"source": "carried_news herald:L7090b6a6636c6bb2"
+},
+{
+"date": "1866-06-04",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-05-23",
+"carrier": null,
+"source": "dateline herald:La8fe3f58b71c9bab"
+},
+{
+"date": "1866-06-05",
+"age_days": 11,
+"carrier_voyage_id": "V-nova-scotian-660524-8074c0",
+"via": "steamer",
+"news_date": "1866-05-25",
+"carrier": "Nova Scotian",
+"source": "carried_news herald:L6ca6f34626ed241a"
+},
+{
+"date": "1866-06-06",
+"age_days": 12,
+"carrier_voyage_id": "V-nova-scotian-660524-8074c0",
+"via": "steamer",
+"news_date": "1866-05-25",
+"carrier": "Nova Scotian",
+"source": "carried_news herald:L6ca6f34626ed241a"
+},
+{
+"date": "1866-06-07",
+"age_days": 11,
+"carrier_voyage_id": "V-africa-660526-008db9",
+"via": "steamer",
+"news_date": "1866-05-27",
+"carrier": "Africa",
+"source": "carried_news herald:L6e4c67db7758d88d"
+},
+{
+"date": "1866-06-08",
+"age_days": 12,
+"carrier_voyage_id": "V-africa-660526-008db9",
+"via": "steamer",
+"news_date": "1866-05-27",
+"carrier": "Africa",
+"source": "carried_news herald:L6e4c67db7758d88d"
+},
+{
+"date": "1866-06-09",
+"age_days": 13,
+"carrier_voyage_id": "V-africa-660526-008db9",
+"via": "steamer",
+"news_date": "1866-05-27",
+"carrier": "Africa",
+"source": "carried_news herald:L6e4c67db7758d88d"
+},
+{
+"date": "1866-06-10",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-05-29",
+"carrier": null,
+"source": "dateline herald:Le5b69b1861eacffa"
+},
+{
+"date": "1866-06-11",
+"age_days": 10,
+"carrier_voyage_id": "V-hibernian-660531-4efaeb",
+"via": "steamer",
+"news_date": "1866-06-01",
+"carrier": "Hibernian",
+"source": "dateline herald:L42a43dda3d2e3c08"
+},
+{
+"date": "1866-06-12",
+"age_days": 9,
+"carrier_voyage_id": "V-scotia-660602-f9b17b",
+"via": "steamer",
+"news_date": "1866-06-03",
+"carrier": "Scotia",
+"source": "carried_news herald:L80133ea6c88d9d40"
+},
+{
+"date": "1866-06-13",
+"age_days": 10,
+"carrier_voyage_id": "V-scotia-660602-f9b17b",
+"via": "steamer",
+"news_date": "1866-06-03",
+"carrier": "Scotia",
+"source": "carried_news herald:L80133ea6c88d9d40"
+},
+{
+"date": "1866-06-14",
+"age_days": 11,
+"carrier_voyage_id": "V-scotia-660602-f9b17b",
+"via": "steamer",
+"news_date": "1866-06-03",
+"carrier": "Scotia",
+"source": "carried_news herald:L80133ea6c88d9d40"
+},
+{
+"date": "1866-06-15",
+"age_days": 12,
+"carrier_voyage_id": "V-scotia-660602-f9b17b",
+"via": "steamer",
+"news_date": "1866-06-03",
+"carrier": "Scotia",
+"source": "carried_news herald:L80133ea6c88d9d40"
+},
+{
+"date": "1866-06-16",
+"age_days": 13,
+"carrier_voyage_id": "V-scotia-660602-f9b17b",
+"via": "steamer",
+"news_date": "1866-06-03",
+"carrier": "Scotia",
+"source": "carried_news herald:L80133ea6c88d9d40"
+},
+{
+"date": "1866-06-17",
+"age_days": 10,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-07",
+"carrier": null,
+"source": "dateline herald:L755602bdba55d559"
+},
+{
+"date": "1866-06-18",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-paris-660606-7de4b1",
+"via": "steamer",
+"news_date": "1866-06-07",
+"carrier": "City of Paris",
+"source": "carried_news herald:Lbb5fd5a93b63a52d"
+},
+{
+"date": "1866-06-19",
+"age_days": 10,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": null,
+"source": "dateline herald:L44db1dc82eaf7ac7"
+},
+{
+"date": "1866-06-20",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": null,
+"source": "dateline herald:L44db1dc82eaf7ac7"
+},
+{
+"date": "1866-06-21",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": null,
+"source": "dateline herald:L44db1dc82eaf7ac7"
+},
+{
+"date": "1866-06-22",
+"age_days": 13,
+"carrier_voyage_id": "V-china-660610-2b11ff",
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": "China",
+"source": "carried_news herald:L66f3ab8a4ba6d7ca"
+},
+{
+"date": "1866-06-23",
+"age_days": 14,
+"carrier_voyage_id": "V-china-660610-2b11ff",
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": "China",
+"source": "carried_news herald:L66f3ab8a4ba6d7ca"
+},
+{
+"date": "1866-06-24",
+"age_days": 15,
+"carrier_voyage_id": "V-china-660610-2b11ff",
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": "China",
+"source": "carried_news herald:L66f3ab8a4ba6d7ca"
+},
+{
+"date": "1866-06-25",
+"age_days": 12,
+"carrier_voyage_id": "V-germania-660610-98b37b",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Germania",
+"source": "carried_news herald:L04b9de826f355b9f"
+},
+{
+"date": "1866-06-26",
+"age_days": 11,
+"carrier_voyage_id": "V-moravian-660614-9320d5",
+"via": "steamer",
+"news_date": "1866-06-15",
+"carrier": "Moravian",
+"source": "carried_news herald:La29f12ef3bcbf11b"
+},
+{
+"date": "1866-06-27",
+"age_days": 12,
+"carrier_voyage_id": "V-moravian-660614-9320d5",
+"via": "steamer",
+"news_date": "1866-06-15",
+"carrier": "Moravian",
+"source": "carried_news herald:La29f12ef3bcbf11b"
+},
+{
+"date": "1866-06-28",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-17",
+"carrier": null,
+"source": "dateline herald:L25903979679c1cbb"
+},
+{
+"date": "1866-06-29",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-17",
+"carrier": null,
+"source": "dateline herald:L25903979679c1cbb"
+},
+{
+"date": "1866-06-30",
+"age_days": 13,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-17",
+"carrier": null,
+"source": "dateline herald:L25903979679c1cbb"
+},
+{
+"date": "1866-07-01",
+"age_days": 14,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-17",
+"carrier": null,
+"source": "dateline herald:L25903979679c1cbb"
+},
+{
+"date": "1866-07-02",
+"age_days": 15,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-17",
+"carrier": null,
+"source": "dateline herald:L25903979679c1cbb"
+},
+{
+"date": "1866-07-03",
+"age_days": 9,
+"carrier_voyage_id": "V-bremen-660617-684ed9",
+"via": "steamer",
+"news_date": "1866-06-24",
+"carrier": "Bremen",
+"source": "carried_news herald:L484773571dba0fe4"
+},
+{
+"date": "1866-07-04",
+"age_days": 10,
+"carrier_voyage_id": "V-bremen-660617-684ed9",
+"via": "steamer",
+"news_date": "1866-06-24",
+"carrier": "Bremen",
+"source": "carried_news herald:L484773571dba0fe4"
+},
+{
+"date": "1866-07-05",
+"age_days": 11,
+"carrier_voyage_id": "V-bremen-660617-684ed9",
+"via": "steamer",
+"news_date": "1866-06-24",
+"carrier": "Bremen",
+"source": "carried_news herald:L484773571dba0fe4"
+},
+{
+"date": "1866-07-06",
+"age_days": 12,
+"carrier_voyage_id": "V-bremen-660617-684ed9",
+"via": "steamer",
+"news_date": "1866-06-24",
+"carrier": "Bremen",
+"source": "carried_news herald:L484773571dba0fe4"
+},
+{
+"date": "1866-07-07",
+"age_days": 13,
+"carrier_voyage_id": "V-bremen-660617-684ed9",
+"via": "steamer",
+"news_date": "1866-06-24",
+"carrier": "Bremen",
+"source": "carried_news herald:L484773571dba0fe4"
+},
+{
+"date": "1866-07-08",
+"age_days": 10,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-28",
+"carrier": null,
+"source": "dateline herald:La829c724d17a39df"
+},
+{
+"date": "1866-07-09",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-28",
+"carrier": null,
+"source": "dateline herald:La829c724d17a39df"
+},
+{
+"date": "1866-07-10",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-28",
+"carrier": null,
+"source": "dateline herald:La829c724d17a39df"
+},
+{
+"date": "1866-07-11",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-london-660627-e59a8f",
+"via": "steamer",
+"news_date": "1866-06-28",
+"carrier": "City of London",
+"source": "carried_news herald:L41f13ac5c0ebc372"
+},
+{
+"date": "1866-07-12",
+"age_days": 13,
+"carrier_voyage_id": "V-st-david-660628-636f8e",
+"via": "steamer",
+"news_date": "1866-06-29",
+"carrier": "St. David",
+"source": "dateline herald:L98c558629ab2d855"
+},
+{
+"date": "1866-07-13",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-07-01",
+"carrier": null,
+"source": "dateline herald:L2ecc7e6cf02b4968"
+},
+{
+"date": "1866-07-14",
+"age_days": 13,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-07-01",
+"carrier": null,
+"source": "dateline herald:L2ecc7e6cf02b4968"
+},
+{
+"date": "1866-07-15",
+"age_days": 14,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-07-01",
+"carrier": null,
+"source": "dateline herald:L2ecc7e6cf02b4968"
+},
+{
+"date": "1866-07-16",
+"age_days": 10,
+"carrier_voyage_id": "V-america-660701-7ce9fd",
+"via": "steamer",
+"news_date": "1866-07-06",
+"carrier": "America",
+"source": "carried_news herald:L259487c87c8581e0"
+},
+{
+"date": "1866-07-17",
+"age_days": 11,
+"carrier_voyage_id": "V-america-660701-7ce9fd",
+"via": "steamer",
+"news_date": "1866-07-06",
+"carrier": "America",
+"source": "carried_news herald:L259487c87c8581e0"
+},
+{
+"date": "1866-07-18",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-07-07",
+"carrier": "Pereire",
+"source": "carried_news herald:L21401ad2e0941b19"
+},
+{
+"date": "1866-07-19",
+"age_days": 11,
+"carrier_voyage_id": "V-africa-660718-772d7b",
+"via": "steamer",
+"news_date": "1866-07-08",
+"carrier": "Africa",
+"source": "carried_news herald:L7f12f524313fd6ec"
+},
+{
+"date": "1866-07-20",
+"age_days": 12,
+"carrier_voyage_id": "V-africa-660718-772d7b",
+"via": "steamer",
+"news_date": "1866-07-08",
+"carrier": "Africa",
+"source": "carried_news herald:L7f12f524313fd6ec"
+},
+{
+"date": "1866-07-21",
+"age_days": 13,
+"carrier_voyage_id": "V-africa-660718-772d7b",
+"via": "steamer",
+"news_date": "1866-07-08",
+"carrier": "Africa",
+"source": "carried_news herald:L7f12f524313fd6ec"
+},
+{
+"date": "1866-07-22",
+"age_days": 10,
+"carrier_voyage_id": "V-hermann-660708-8462ff",
+"via": "steamer",
+"news_date": "1866-07-12",
+"carrier": "Hermann",
+"source": "carried_news herald:Lacf0016e0736c640"
+},
+{
+"date": "1866-07-23",
+"age_days": 11,
+"carrier_voyage_id": "V-hermann-660708-8462ff",
+"via": "steamer",
+"news_date": "1866-07-12",
+"carrier": "Hermann",
+"source": "carried_news herald:Lacf0016e0736c640"
+},
+{
+"date": "1866-07-24",
+"age_days": 9,
+"carrier_voyage_id": "V-scotia-660714-d6d98e",
+"via": "steamer",
+"news_date": "1866-07-15",
+"carrier": "Scotia",
+"source": "carried_news herald:L362723eef581639c"
+},
+{
+"date": "1866-07-25",
+"age_days": 10,
+"carrier_voyage_id": "V-scotia-660714-d6d98e",
+"via": "steamer",
+"news_date": "1866-07-15",
+"carrier": "Scotia",
+"source": "carried_news herald:L362723eef581639c"
+},
+{
+"date": "1866-07-26",
+"age_days": 10,
+"carrier_voyage_id": "V-hibernian-660712-303cbb",
+"via": "steamer",
+"news_date": "1866-07-16",
+"carrier": "Hibernian",
+"source": "carried_news herald:L3fbfe7ccaf35b12d"
+},
+{
+"date": "1866-07-27",
+"age_days": 11,
+"carrier_voyage_id": "V-hibernian-660712-303cbb",
+"via": "steamer",
+"news_date": "1866-07-16",
+"carrier": "Hibernian",
+"source": "carried_news herald:L3fbfe7ccaf35b12d"
+},
+{
+"date": "1866-07-28",
+"age_days": 12,
+"carrier_voyage_id": "V-hibernian-660712-303cbb",
+"via": "steamer",
+"news_date": "1866-07-16",
+"carrier": "Hibernian",
+"source": "carried_news herald:L3fbfe7ccaf35b12d"
+},
+{
+"date": "1866-07-29",
+"age_days": 9,
+"carrier_voyage_id": "V-peruvian-660719-90611a",
+"via": "steamer",
+"news_date": "1866-07-20",
+"carrier": "Peruvian",
+"source": "carried_news herald:Lbfb49f46dc3a77bb"
+},
+{
+"date": "1866-07-30",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-07-27",
+"carrier": null,
+"source": "carried_news herald:Lb7996ec1b5383b23"
+},
+{
+"date": "1866-07-31",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-07-28",
+"carrier": null,
+"source": "carried_news herald:Lf4b16095791bed1c"
+},
+{
+"date": "1866-08-01",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-07-30",
+"carrier": null,
+"source": "carried_news herald:Lf248398dfb88c71f"
+},
+{
+"date": "1866-08-02",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-07-30",
+"carrier": null,
+"source": "carried_news herald:Lf248398dfb88c71f"
+},
+{
+"date": "1866-08-03",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-01",
+"carrier": null,
+"source": "carried_news herald:Ld84861b3fc92aa53"
+},
+{
+"date": "1866-08-04",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-01",
+"carrier": null,
+"source": "carried_news herald:Ld84861b3fc92aa53"
+},
+{
+"date": "1866-08-05",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-03",
+"carrier": null,
+"source": "carried_news herald:L268747dfb2b731fb"
+},
+{
+"date": "1866-08-06",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-03",
+"carrier": null,
+"source": "carried_news herald:L268747dfb2b731fb"
+},
+{
+"date": "1866-08-07",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-04",
+"carrier": null,
+"source": "carried_news herald:L7d1425beaefed6e9"
+},
+{
+"date": "1866-08-08",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-05",
+"carrier": null,
+"source": "dateline herald:L4f70b11730286717"
+},
+{
+"date": "1866-08-09",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-07",
+"carrier": null,
+"source": "dateline herald:L4306ec50308b2d19"
+},
+{
+"date": "1866-08-10",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-08",
+"carrier": null,
+"source": "dateline herald:L12556be6fb81a548"
+},
+{
+"date": "1866-08-11",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-09",
+"carrier": null,
+"source": "carried_news herald:L29804833125e24fb"
+},
+{
+"date": "1866-08-12",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-09",
+"carrier": null,
+"source": "carried_news herald:L29804833125e24fb"
+},
+{
+"date": "1866-08-13",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-11",
+"carrier": null,
+"source": "dateline herald:L7d8526aa4629e02a"
+},
+{
+"date": "1866-08-14",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-13",
+"carrier": null,
+"source": "dateline herald:Ldb66c06cc5ad8e80"
+},
+{
+"date": "1866-08-15",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-14",
+"carrier": null,
+"source": "dateline herald:L8d65a9287b4ca88c"
+},
+{
+"date": "1866-08-16",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-15",
+"carrier": null,
+"source": "dateline herald:L4b0fd42f140005e7"
+},
+{
+"date": "1866-08-17",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-16",
+"carrier": null,
+"source": "carried_news herald:Leaef276b26240512"
+},
+{
+"date": "1866-08-18",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-16",
+"carrier": null,
+"source": "carried_news herald:Leaef276b26240512"
+},
+{
+"date": "1866-08-19",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-17",
+"carrier": null,
+"source": "carried_news herald:L0337be1d75399e4d"
+},
+{
+"date": "1866-08-20",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-17",
+"carrier": null,
+"source": "carried_news herald:L0337be1d75399e4d"
+},
+{
+"date": "1866-08-21",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-20",
+"carrier": null,
+"source": "dateline herald:Ldbc48df0afb3d32e"
+},
+{
+"date": "1866-08-22",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-21",
+"carrier": null,
+"source": "carried_news herald:L5c86711c0c461326"
+},
+{
+"date": "1866-08-23",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-22",
+"carrier": null,
+"source": "dateline herald:L3c8a51bf814079a6"
+},
+{
+"date": "1866-08-24",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-23",
+"carrier": null,
+"source": "dateline herald:La21d1e299fe35329"
+},
+{
+"date": "1866-08-25",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-24",
+"carrier": null,
+"source": "dateline herald:L3b8b63ec5018a0a4"
+},
+{
+"date": "1866-08-26",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-25",
+"carrier": null,
+"source": "dateline herald:Lbcf385bc0c23661c"
+},
+{
+"date": "1866-08-27",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-26",
+"carrier": null,
+"source": "carried_news herald:L52c631145641363f"
+},
+{
+"date": "1866-08-28",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-27",
+"carrier": null,
+"source": "carried_news herald:L0dfbab31ad925e0d"
+},
+{
+"date": "1866-08-29",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-28",
+"carrier": null,
+"source": "carried_news herald:Leb4d52ccd3dae12c"
+},
+{
+"date": "1866-08-30",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-29",
+"carrier": null,
+"source": "carried_news herald:L6ad51a179795293f"
+},
+{
+"date": "1866-08-31",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-30",
+"carrier": null,
+"source": "carried_news herald:L0d08a672c25648f0"
+},
+{
+"date": "1866-09-01",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-31",
+"carrier": null,
+"source": "carried_news herald:L057e0f48077f7410"
+},
+{
+"date": "1866-09-02",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-01",
+"carrier": null,
+"source": "carried_news herald:L8f9371aab05a32fc"
+},
+{
+"date": "1866-09-03",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-02",
+"carrier": null,
+"source": "dateline herald:L2a9ea20dcd418c53"
+},
+{
+"date": "1866-09-04",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-03",
+"carrier": null,
+"source": "carried_news herald:Lae72ab24d34ae63b"
+},
+{
+"date": "1866-09-05",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-04",
+"carrier": null,
+"source": "carried_news herald:L36e92882ca5a1a83"
+},
+{
+"date": "1866-09-06",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-05",
+"carrier": null,
+"source": "carried_news herald:La1b16091c38c50f0"
+},
+{
+"date": "1866-09-07",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-06",
+"carrier": null,
+"source": "carried_news herald:L77ba961f45074a55"
+},
+{
+"date": "1866-09-08",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-07",
+"carrier": null,
+"source": "carried_news herald:L2d08d3c279fd0915"
+},
+{
+"date": "1866-09-09",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-07",
+"carrier": null,
+"source": "carried_news herald:L2d08d3c279fd0915"
+},
+{
+"date": "1866-09-10",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-08",
+"carrier": null,
+"source": "dateline herald:Lfbc72eba1408abce"
+},
+{
+"date": "1866-09-11",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-10",
+"carrier": null,
+"source": "carried_news herald:L9752f9135681d63d"
+},
+{
+"date": "1866-09-12",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-11",
+"carrier": null,
+"source": "carried_news herald:L00097e6728e50bb8"
+},
+{
+"date": "1866-09-13",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-11",
+"carrier": null,
+"source": "carried_news herald:L00097e6728e50bb8"
+},
+{
+"date": "1866-09-14",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-12",
+"carrier": null,
+"source": "carried_news herald:L6e984a07e29a92fe"
+},
+{
+"date": "1866-09-15",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-14",
+"carrier": null,
+"source": "carried_news herald:L9eb18bb4a3a9656a"
+},
+{
+"date": "1866-09-16",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-15",
+"carrier": null,
+"source": "carried_news herald:L5657ee27bdd3565e"
+},
+{
+"date": "1866-09-17",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-15",
+"carrier": null,
+"source": "carried_news herald:L5657ee27bdd3565e"
+},
+{
+"date": "1866-09-18",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-17",
+"carrier": null,
+"source": "dateline herald:L739c5661eea03d46"
+},
+{
+"date": "1866-09-19",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-17",
+"carrier": null,
+"source": "dateline herald:L739c5661eea03d46"
+},
+{
+"date": "1866-09-20",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-18",
+"carrier": null,
+"source": "carried_news herald:La994d8bc4d1b3c5d"
+},
+{
+"date": "1866-09-21",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-20",
+"carrier": null,
+"source": "dateline herald:Lcf0c0ccc258a407d"
+},
+{
+"date": "1866-09-22",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-21",
+"carrier": null,
+"source": "carried_news herald:L91d957e8d46eaf7f"
+},
+{
+"date": "1866-09-23",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-21",
+"carrier": null,
+"source": "carried_news herald:L91d957e8d46eaf7f"
+},
+{
+"date": "1866-09-24",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-22",
+"carrier": null,
+"source": "dateline herald:L77bce7bb0c065b73"
+},
+{
+"date": "1866-09-25",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-22",
+"carrier": null,
+"source": "dateline herald:L77bce7bb0c065b73"
+},
+{
+"date": "1866-09-26",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-22",
+"carrier": null,
+"source": "dateline herald:L77bce7bb0c065b73"
+},
+{
+"date": "1866-09-27",
+"age_days": 5,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-22",
+"carrier": null,
+"source": "dateline herald:L77bce7bb0c065b73"
+},
+{
+"date": "1866-09-28",
+"age_days": 6,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-22",
+"carrier": null,
+"source": "dateline herald:L77bce7bb0c065b73"
+},
+{
+"date": "1866-09-29",
+"age_days": 5,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-24",
+"carrier": null,
+"source": "carried_news herald:L3f3069518cb02d6b"
+},
+{
+"date": "1866-09-30",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-28",
+"carrier": null,
+"source": "dateline herald:L113944bf09e22389"
+}
+],
+"london": [
+{
+"date": "1866-05-01",
+"age_days": 13,
+"carrier_voyage_id": "V-cuba-660428-123c72",
+"via": "steamer",
+"news_date": "1866-04-18",
+"carrier": "Cuba",
+"source": "HMD sun 1866-04-30 0002194_18660430_art0021"
+},
+{
+"date": "1866-05-02",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "HMD sun 1866-05-02 0002194_18660502_art0011"
+},
+{
+"date": "1866-05-03",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "HMD sun 1866-05-02 0002194_18660502_art0011"
+},
+{
+"date": "1866-05-04",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "HMD sun 1866-05-02 0002194_18660502_art0011"
+},
+{
+"date": "1866-05-05",
+"age_days": 14,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "HMD sun 1866-05-02 0002194_18660502_art0011"
+},
+{
+"date": "1866-05-06",
+"age_days": 15,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "HMD sun 1866-05-02 0002194_18660502_art0011"
+},
+{
+"date": "1866-05-07",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-04-26",
+"carrier": null,
+"source": "HMD sun 1866-05-07 0002194_18660507_art0050"
+},
+{
+"date": "1866-05-08",
+"age_days": 10,
+"carrier_voyage_id": "V-city-of-boston-660428-a9c5f3x",
+"via": "steamer",
+"news_date": "1866-04-28",
+"carrier": "City of Boston",
+"source": "HMD sun 1866-05-08 0002194_18660508_art0039"
+},
+{
+"date": "1866-05-09",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-boston-660428-a9c5f3x",
+"via": "steamer",
+"news_date": "1866-04-28",
+"carrier": "City of Boston",
+"source": "HMD sun 1866-05-08 0002194_18660508_art0039"
+},
+{
+"date": "1866-05-10",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-boston-660428-a9c5f3x",
+"via": "steamer",
+"news_date": "1866-04-28",
+"carrier": "City of Boston",
+"source": "HMD sun 1866-05-08 0002194_18660508_art0039"
+},
+{
+"date": "1866-05-11",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-boston-660428-a9c5f3x",
+"via": "steamer",
+"news_date": "1866-04-28",
+"carrier": "City of Boston",
+"source": "HMD sun 1866-05-08 0002194_18660508_art0039"
+},
+{
+"date": "1866-05-12",
+"age_days": 10,
+"carrier_voyage_id": "V-persia-660501-acfba7",
+"via": "steamer",
+"news_date": "1866-05-02",
+"carrier": "Persia",
+"source": "HMD sun 1866-05-12 0002194_18660512_art0025"
+},
+{
+"date": "1866-05-13",
+"age_days": 11,
+"carrier_voyage_id": "V-persia-660501-acfba7",
+"via": "steamer",
+"news_date": "1866-05-02",
+"carrier": "Persia",
+"source": "HMD sun 1866-05-12 0002194_18660512_art0025"
+},
+{
+"date": "1866-05-14",
+"age_days": 12,
+"carrier_voyage_id": "V-persia-660501-acfba7",
+"via": "steamer",
+"news_date": "1866-05-02",
+"carrier": "Persia",
+"source": "HMD sun 1866-05-12 0002194_18660512_art0025"
+},
+{
+"date": "1866-05-15",
+"age_days": 10,
+"carrier_voyage_id": "V-allemannia-660505-6a96ac",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "Allemania",
+"source": "HMD sun 1866-05-15 0002194_18660515_art0136"
+},
+{
+"date": "1866-05-16",
+"age_days": 11,
+"carrier_voyage_id": "V-allemannia-660505-6a96ac",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "Allemania",
+"source": "HMD sun 1866-05-15 0002194_18660515_art0136"
+},
+{
+"date": "1866-05-17",
+"age_days": 12,
+"carrier_voyage_id": "V-allemannia-660505-6a96ac",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "Allemania",
+"source": "HMD sun 1866-05-15 0002194_18660515_art0136"
+},
+{
+"date": "1866-05-18",
+"age_days": 13,
+"carrier_voyage_id": "V-allemannia-660505-6a96ac",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "Allemania",
+"source": "HMD sun 1866-05-15 0002194_18660515_art0136"
+},
+{
+"date": "1866-05-19",
+"age_days": 14,
+"carrier_voyage_id": "V-allemannia-660505-6a96ac",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "Allemania",
+"source": "HMD sun 1866-05-15 0002194_18660515_art0136"
+},
+{
+"date": "1866-05-20",
+"age_days": 15,
+"carrier_voyage_id": "V-allemannia-660505-6a96ac",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "Allemania",
+"source": "HMD sun 1866-05-15 0002194_18660515_art0136"
+},
+{
+"date": "1866-05-21",
+"age_days": 11,
+"carrier_voyage_id": "V-africa-660508-a82d71",
+"via": "steamer",
+"news_date": "1866-05-10",
+"carrier": "Africa",
+"source": "HMD sun 1866-05-21 0002194_18660521_art0025"
+},
+{
+"date": "1866-05-22",
+"age_days": 12,
+"carrier_voyage_id": "V-africa-660508-a82d71",
+"via": "steamer",
+"news_date": "1866-05-10",
+"carrier": "Africa",
+"source": "HMD sun 1866-05-21 0002194_18660521_art0025"
+},
+{
+"date": "1866-05-23",
+"age_days": 11,
+"carrier_voyage_id": "V-hibernian-660512-a67672",
+"via": "steamer",
+"news_date": "1866-05-12",
+"carrier": "Hibernian",
+"source": "HMD sun 1866-05-23 0002194_18660523_art0049"
+},
+{
+"date": "1866-05-24",
+"age_days": 12,
+"carrier_voyage_id": "V-hibernian-660512-a67672",
+"via": "steamer",
+"news_date": "1866-05-12",
+"carrier": "Hibernian",
+"source": "HMD sun 1866-05-23 0002194_18660523_art0049"
+},
+{
+"date": "1866-05-25",
+"age_days": 13,
+"carrier_voyage_id": "V-hibernian-660512-a67672",
+"via": "steamer",
+"news_date": "1866-05-12",
+"carrier": "Hibernian",
+"source": "HMD sun 1866-05-23 0002194_18660523_art0049"
+},
+{
+"date": "1866-05-26",
+"age_days": 10,
+"carrier_voyage_id": "V-scotia-660525-28e8f1x",
+"via": "steamer",
+"news_date": "1866-05-16",
+"carrier": "Scotia",
+"source": "HMD sun 1866-05-26 0002194_18660526_art0010"
+},
+{
+"date": "1866-05-27",
+"age_days": 11,
+"carrier_voyage_id": "V-scotia-660525-28e8f1x",
+"via": "steamer",
+"news_date": "1866-05-16",
+"carrier": "Scotia",
+"source": "HMD sun 1866-05-26 0002194_18660526_art0010"
+},
+{
+"date": "1866-05-28",
+"age_days": 12,
+"carrier_voyage_id": "V-scotia-660525-28e8f1x",
+"via": "steamer",
+"news_date": "1866-05-16",
+"carrier": "Scotia",
+"source": "HMD sun 1866-05-26 0002194_18660526_art0010"
+},
+{
+"date": "1866-05-29",
+"age_days": 10,
+"carrier_voyage_id": "V-city-of-paris-660518-8e5e14",
+"via": "steamer",
+"news_date": "1866-05-19",
+"carrier": "City of Paris",
+"source": "HMD sun 1866-05-29 0002194_18660529_art0033"
+},
+{
+"date": "1866-05-30",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-paris-660518-8e5e14",
+"via": "steamer",
+"news_date": "1866-05-19",
+"carrier": "City of Paris",
+"source": "HMD sun 1866-05-29 0002194_18660529_art0033"
+},
+{
+"date": "1866-05-31",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-paris-660518-8e5e14",
+"via": "steamer",
+"news_date": "1866-05-19",
+"carrier": "City of Paris",
+"source": "HMD sun 1866-05-29 0002194_18660529_art0033"
+},
+{
+"date": "1866-06-01",
+"age_days": 8,
+"carrier_voyage_id": "V-china-660601-bdb9ec",
+"via": "steamer",
+"news_date": "1866-05-24",
+"carrier": "China",
+"source": "HMD sun 1866-06-01 0002194_18660601_art0135"
+},
+{
+"date": "1866-06-02",
+"age_days": 9,
+"carrier_voyage_id": "V-china-660601-bdb9ec",
+"via": "steamer",
+"news_date": "1866-05-24",
+"carrier": "China",
+"source": "HMD sun 1866-06-01 0002194_18660601_art0135"
+},
+{
+"date": "1866-06-03",
+"age_days": 10,
+"carrier_voyage_id": "V-china-660601-bdb9ec",
+"via": "steamer",
+"news_date": "1866-05-24",
+"carrier": "China",
+"source": "HMD sun 1866-06-01 0002194_18660601_art0135"
+},
+{
+"date": "1866-06-04",
+"age_days": 10,
+"carrier_voyage_id": "V-moravian-660526-aff91d",
+"via": "steamer",
+"news_date": "1866-05-25",
+"carrier": "Moravian",
+"source": "HMD sun 1866-06-04 0002194_18660604_art0098"
+},
+{
+"date": "1866-06-05",
+"age_days": 10,
+"carrier_voyage_id": "V-city-of-new-york-660526-26ae2f",
+"via": "steamer",
+"news_date": "1866-05-26",
+"carrier": "City of New York",
+"source": "HMD sun 1866-06-05 0002194_18660605_art0109"
+},
+{
+"date": "1866-06-06",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-new-york-660526-26ae2f",
+"via": "steamer",
+"news_date": "1866-05-26",
+"carrier": "City of New York",
+"source": "HMD sun 1866-06-05 0002194_18660605_art0109"
+},
+{
+"date": "1866-06-07",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-new-york-660526-26ae2f",
+"via": "steamer",
+"news_date": "1866-05-26",
+"carrier": "City of New York",
+"source": "HMD sun 1866-06-05 0002194_18660605_art0109"
+},
+{
+"date": "1866-06-08",
+"age_days": 9,
+"carrier_voyage_id": "V-java-660529-03fe22",
+"via": "steamer",
+"news_date": "1866-05-30",
+"carrier": "Java",
+"source": "HMD sun 1866-06-08 0002194_18660608_art0053"
+},
+{
+"date": "1866-06-09",
+"age_days": 10,
+"carrier_voyage_id": "V-java-660529-03fe22",
+"via": "steamer",
+"news_date": "1866-05-30",
+"carrier": "Java",
+"source": "HMD sun 1866-06-08 0002194_18660608_art0053"
+},
+{
+"date": "1866-06-10",
+"age_days": 11,
+"carrier_voyage_id": "V-java-660529-03fe22",
+"via": "steamer",
+"news_date": "1866-05-30",
+"carrier": "Java",
+"source": "HMD sun 1866-06-08 0002194_18660608_art0053"
+},
+{
+"date": "1866-06-11",
+"age_days": 12,
+"carrier_voyage_id": "V-java-660529-03fe22",
+"via": "steamer",
+"news_date": "1866-05-30",
+"carrier": "Java",
+"source": "HMD sun 1866-06-08 0002194_18660608_art0053"
+},
+{
+"date": "1866-06-12",
+"age_days": 10,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-02",
+"carrier": "Pereire",
+"source": "HMD sun 1866-06-12 0002194_18660612_art0107"
+},
+{
+"date": "1866-06-13",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-02",
+"carrier": "Pereire",
+"source": "HMD sun 1866-06-12 0002194_18660612_art0107"
+},
+{
+"date": "1866-06-14",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-02",
+"carrier": "Pereire",
+"source": "HMD sun 1866-06-12 0002194_18660612_art0107"
+},
+{
+"date": "1866-06-15",
+"age_days": 8,
+"carrier_voyage_id": "V-cuba-660605-5e8c71",
+"via": "steamer",
+"news_date": "1866-06-07",
+"carrier": "Cuba",
+"source": "HMD sun 1866-06-15 0002194_18660615_art0154"
+},
+{
+"date": "1866-06-16",
+"age_days": 9,
+"carrier_voyage_id": "V-cuba-660605-5e8c71",
+"via": "steamer",
+"news_date": "1866-06-07",
+"carrier": "Cuba",
+"source": "HMD sun 1866-06-15 0002194_18660615_art0154"
+},
+{
+"date": "1866-06-17",
+"age_days": 10,
+"carrier_voyage_id": "V-cuba-660605-5e8c71",
+"via": "steamer",
+"news_date": "1866-06-07",
+"carrier": "Cuba",
+"source": "HMD sun 1866-06-15 0002194_18660615_art0154"
+},
+{
+"date": "1866-06-18",
+"age_days": 11,
+"carrier_voyage_id": "V-cuba-660605-5e8c71",
+"via": "steamer",
+"news_date": "1866-06-07",
+"carrier": "Cuba",
+"source": "HMD sun 1866-06-15 0002194_18660615_art0154"
+},
+{
+"date": "1866-06-19",
+"age_days": 12,
+"carrier_voyage_id": "V-cuba-660605-5e8c71",
+"via": "steamer",
+"news_date": "1866-06-07",
+"carrier": "Cuba",
+"source": "HMD sun 1866-06-15 0002194_18660615_art0154"
+},
+{
+"date": "1866-06-20",
+"age_days": 13,
+"carrier_voyage_id": "V-cuba-660605-5e8c71",
+"via": "steamer",
+"news_date": "1866-06-07",
+"carrier": "Cuba",
+"source": "HMD sun 1866-06-15 0002194_18660615_art0154"
+},
+{
+"date": "1866-06-21",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-london-660609-bf84bd",
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": "City of London",
+"source": "HMD sun 1866-06-21 0002194_18660621_art0022"
+},
+{
+"date": "1866-06-22",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-london-660609-bf84bd",
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": "City of London",
+"source": "HMD sun 1866-06-21 0002194_18660621_art0022"
+},
+{
+"date": "1866-06-23",
+"age_days": 10,
+"carrier_voyage_id": "V-persia-660613-674387",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Persia",
+"source": "HMD sun 1866-06-23 0002194_18660623_art0062"
+},
+{
+"date": "1866-06-24",
+"age_days": 11,
+"carrier_voyage_id": "V-persia-660613-674387",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Persia",
+"source": "HMD sun 1866-06-23 0002194_18660623_art0062"
+},
+{
+"date": "1866-06-25",
+"age_days": 12,
+"carrier_voyage_id": "V-persia-660613-674387",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Persia",
+"source": "HMD sun 1866-06-23 0002194_18660623_art0062"
+},
+{
+"date": "1866-06-26",
+"age_days": 10,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-16",
+"carrier": "Nova Scotia",
+"source": "HMD sun 1866-06-26 0002194_18660626_art0038"
+},
+{
+"date": "1866-06-27",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-16",
+"carrier": "Nova Scotia",
+"source": "HMD sun 1866-06-26 0002194_18660626_art0038"
+},
+{
+"date": "1866-06-28",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-16",
+"carrier": "Nova Scotia",
+"source": "HMD sun 1866-06-26 0002194_18660626_art0038"
+},
+{
+"date": "1866-06-29",
+"age_days": 13,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-16",
+"carrier": "Nova Scotia",
+"source": "HMD sun 1866-06-26 0002194_18660626_art0038"
+},
+{
+"date": "1866-06-30",
+"age_days": 9,
+"carrier_voyage_id": "V-africa-660620-9cf506",
+"via": "steamer",
+"news_date": "1866-06-21",
+"carrier": "Africa",
+"source": "HMD sun 1866-06-30 0002194_18660630_art0003"
+},
+{
+"date": "1866-07-01",
+"age_days": 10,
+"carrier_voyage_id": "V-africa-660620-9cf506",
+"via": "steamer",
+"news_date": "1866-06-21",
+"carrier": "Africa",
+"source": "HMD sun 1866-06-30 0002194_18660630_art0003"
+},
+{
+"date": "1866-07-02",
+"age_days": 9,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-23",
+"carrier": "Hibernia",
+"source": "HMD sun 1866-07-02 0002194_18660702_art0043"
+},
+{
+"date": "1866-07-03",
+"age_days": 10,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-23",
+"carrier": "Hibernia",
+"source": "HMD sun 1866-07-02 0002194_18660702_art0043"
+},
+{
+"date": "1866-07-04",
+"age_days": 11,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-23",
+"carrier": "Hibernia",
+"source": "HMD sun 1866-07-02 0002194_18660702_art0043"
+},
+{
+"date": "1866-07-05",
+"age_days": 12,
+"carrier_voyage_id": null,
+"via": "steamer",
+"news_date": "1866-06-23",
+"carrier": "Hibernia",
+"source": "HMD sun 1866-07-02 0002194_18660702_art0043"
+},
+{
+"date": "1866-07-06",
+"age_days": 9,
+"carrier_voyage_id": "V-scotia-660626-6aed6d",
+"via": "steamer",
+"news_date": "1866-06-27",
+"carrier": "Scotia",
+"source": "HMD sun 1866-07-06 0002194_18660706_art0045"
+},
+{
+"date": "1866-07-07",
+"age_days": 10,
+"carrier_voyage_id": "V-scotia-660626-6aed6d",
+"via": "steamer",
+"news_date": "1866-06-27",
+"carrier": "Scotia",
+"source": "HMD sun 1866-07-06 0002194_18660706_art0045"
+},
+{
+"date": "1866-07-08",
+"age_days": 11,
+"carrier_voyage_id": "V-scotia-660626-6aed6d",
+"via": "steamer",
+"news_date": "1866-06-27",
+"carrier": "Scotia",
+"source": "HMD sun 1866-07-06 0002194_18660706_art0045"
+},
+{
+"date": "1866-07-09",
+"age_days": 9,
+"carrier_voyage_id": "V-peruvian-660630-a1560b",
+"via": "steamer",
+"news_date": "1866-06-30",
+"carrier": "Peruvian",
+"source": "HMD sun 1866-07-09 0002194_18660709_art0005"
+},
+{
+"date": "1866-07-10",
+"age_days": 10,
+"carrier_voyage_id": "V-peruvian-660630-a1560b",
+"via": "steamer",
+"news_date": "1866-06-30",
+"carrier": "Peruvian",
+"source": "HMD sun 1866-07-09 0002194_18660709_art0005"
+},
+{
+"date": "1866-07-11",
+"age_days": 11,
+"carrier_voyage_id": "V-peruvian-660630-a1560b",
+"via": "steamer",
+"news_date": "1866-06-30",
+"carrier": "Peruvian",
+"source": "HMD sun 1866-07-09 0002194_18660709_art0005"
+},
+{
+"date": "1866-07-12",
+"age_days": 12,
+"carrier_voyage_id": "V-peruvian-660630-a1560b",
+"via": "steamer",
+"news_date": "1866-06-30",
+"carrier": "Peruvian",
+"source": "HMD sun 1866-07-09 0002194_18660709_art0005"
+},
+{
+"date": "1866-07-13",
+"age_days": 8,
+"carrier_voyage_id": "V-china-660703-f47516",
+"via": "steamer",
+"news_date": "1866-07-05",
+"carrier": "China",
+"source": "HMD sun 1866-07-13 0002194_18660713_art0027"
+},
+{
+"date": "1866-07-14",
+"age_days": 9,
+"carrier_voyage_id": "V-china-660703-f47516",
+"via": "steamer",
+"news_date": "1866-07-05",
+"carrier": "China",
+"source": "HMD sun 1866-07-13 0002194_18660713_art0027"
+},
+{
+"date": "1866-07-15",
+"age_days": 10,
+"carrier_voyage_id": "V-china-660703-f47516",
+"via": "steamer",
+"news_date": "1866-07-05",
+"carrier": "China",
+"source": "HMD sun 1866-07-13 0002194_18660713_art0027"
+},
+{
+"date": "1866-07-16",
+"age_days": 11,
+"carrier_voyage_id": "V-china-660703-f47516",
+"via": "steamer",
+"news_date": "1866-07-05",
+"carrier": "China",
+"source": "HMD sun 1866-07-13 0002194_18660713_art0027"
+},
+{
+"date": "1866-07-17",
+"age_days": 10,
+"carrier_voyage_id": "V-moravian-660707-09669f",
+"via": "steamer",
+"news_date": "1866-07-07",
+"carrier": "Moravian",
+"source": "HMD sun 1866-07-17 0002194_18660717_art0031"
+},
+{
+"date": "1866-07-18",
+"age_days": 11,
+"carrier_voyage_id": "V-moravian-660707-09669f",
+"via": "steamer",
+"news_date": "1866-07-07",
+"carrier": "Moravian",
+"source": "HMD sun 1866-07-17 0002194_18660717_art0031"
+},
+{
+"date": "1866-07-19",
+"age_days": 12,
+"carrier_voyage_id": "V-moravian-660707-09669f",
+"via": "steamer",
+"news_date": "1866-07-07",
+"carrier": "Moravian",
+"source": "HMD sun 1866-07-17 0002194_18660717_art0031"
+},
+{
+"date": "1866-07-20",
+"age_days": 13,
+"carrier_voyage_id": "V-moravian-660707-09669f",
+"via": "steamer",
+"news_date": "1866-07-07",
+"carrier": "Moravian",
+"source": "HMD sun 1866-07-17 0002194_18660717_art0031"
+},
+{
+"date": "1866-07-21",
+"age_days": 10,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "HMD sun 1866-07-21 0002194_18660721_art0081"
+},
+{
+"date": "1866-07-22",
+"age_days": 11,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "HMD sun 1866-07-21 0002194_18660721_art0081"
+},
+{
+"date": "1866-07-23",
+"age_days": 12,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "HMD sun 1866-07-21 0002194_18660721_art0081"
+},
+{
+"date": "1866-07-24",
+"age_days": 13,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "HMD sun 1866-07-21 0002194_18660721_art0081"
+},
+{
+"date": "1866-07-25",
+"age_days": 11,
+"carrier_voyage_id": "V-damascus-660714-d1aa2c",
+"via": "steamer",
+"news_date": "1866-07-14",
+"carrier": "Damascus",
+"source": "HMD sun 1866-07-25 0002194_18660725_art0034"
+},
+{
+"date": "1866-07-26",
+"age_days": 12,
+"carrier_voyage_id": "V-damascus-660714-d1aa2c",
+"via": "steamer",
+"news_date": "1866-07-14",
+"carrier": "Damascus",
+"source": "HMD sun 1866-07-25 0002194_18660725_art0034"
+},
+{
+"date": "1866-07-27",
+"age_days": 8,
+"carrier_voyage_id": "V-cuba-660717-4991a1",
+"via": "steamer",
+"news_date": "1866-07-19",
+"carrier": "Cuba",
+"source": "HMD sun 1866-07-27 0002194_18660727_art0018"
+},
+{
+"date": "1866-07-28",
+"age_days": 9,
+"carrier_voyage_id": "V-cuba-660717-4991a1",
+"via": "steamer",
+"news_date": "1866-07-19",
+"carrier": "Cuba",
+"source": "HMD sun 1866-07-27 0002194_18660727_art0018"
+},
+{
+"date": "1866-07-29",
+"age_days": 10,
+"carrier_voyage_id": "V-cuba-660717-4991a1",
+"via": "steamer",
+"news_date": "1866-07-19",
+"carrier": "Cuba",
+"source": "HMD sun 1866-07-27 0002194_18660727_art0018"
+},
+{
+"date": "1866-07-30",
+"age_days": 11,
+"carrier_voyage_id": "V-cuba-660717-4991a1",
+"via": "steamer",
+"news_date": "1866-07-19",
+"carrier": "Cuba",
+"source": "HMD sun 1866-07-27 0002194_18660727_art0018"
+},
+{
+"date": "1866-07-31",
+"age_days": 12,
+"carrier_voyage_id": "V-cuba-660717-4991a1",
+"via": "steamer",
+"news_date": "1866-07-19",
+"carrier": "Cuba",
+"source": "HMD sun 1866-07-27 0002194_18660727_art0018"
+},
+{
+"date": "1866-08-01",
+"age_days": 0,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-01",
+"carrier": null,
+"source": "HMD sun 1866-08-01 0002194_18660801_art0048"
+},
+{
+"date": "1866-08-02",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-01",
+"carrier": null,
+"source": "HMD sun 1866-08-01 0002194_18660801_art0048"
+},
+{
+"date": "1866-08-03",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-01",
+"carrier": null,
+"source": "HMD sun 1866-08-01 0002194_18660801_art0048"
+},
+{
+"date": "1866-08-04",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-01",
+"carrier": null,
+"source": "HMD sun 1866-08-01 0002194_18660801_art0048"
+},
+{
+"date": "1866-08-05",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-01",
+"carrier": null,
+"source": "HMD sun 1866-08-01 0002194_18660801_art0048"
+},
+{
+"date": "1866-08-06",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-03",
+"carrier": null,
+"source": "HMD sun 1866-08-06 0002194_18660806_art0014"
+},
+{
+"date": "1866-08-07",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-03",
+"carrier": null,
+"source": "HMD sun 1866-08-06 0002194_18660806_art0014"
+},
+{
+"date": "1866-08-08",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-04",
+"carrier": null,
+"source": "HMD express 1866-08-08 0002642_18660808_art0006"
+},
+{
+"date": "1866-08-09",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-06",
+"carrier": null,
+"source": "HMD express 1866-08-09 0002642_18660809_art0004"
+},
+{
+"date": "1866-08-10",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-08",
+"carrier": null,
+"source": "HMD express 1866-08-10 0002642_18660810_art0009"
+},
+{
+"date": "1866-08-11",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-08",
+"carrier": null,
+"source": "HMD express 1866-08-10 0002642_18660810_art0009"
+},
+{
+"date": "1866-08-12",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable+steamer",
+"news_date": "1866-08-08",
+"carrier": null,
+"source": "HMD express 1866-08-10 0002642_18660810_art0009"
+},
+{
+"date": "1866-08-13",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-10",
+"carrier": null,
+"source": "HMD sun 1866-08-13 0002194_18660813_art0020"
+},
+{
+"date": "1866-08-14",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-10",
+"carrier": null,
+"source": "HMD sun 1866-08-13 0002194_18660813_art0020"
+},
+{
+"date": "1866-08-15",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-14",
+"carrier": null,
+"source": "HMD sun 1866-08-15 0002194_18660815_art0037"
+},
+{
+"date": "1866-08-16",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-15",
+"carrier": null,
+"source": "HMD sun 1866-08-16 0002194_18660816_art0064"
+},
+{
+"date": "1866-08-17",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-16",
+"carrier": null,
+"source": "HMD sun 1866-08-17 0002194_18660817_art0024"
+},
+{
+"date": "1866-08-18",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-16",
+"carrier": null,
+"source": "HMD sun 1866-08-17 0002194_18660817_art0024"
+},
+{
+"date": "1866-08-19",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-16",
+"carrier": null,
+"source": "HMD sun 1866-08-17 0002194_18660817_art0024"
+},
+{
+"date": "1866-08-20",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-16",
+"carrier": null,
+"source": "HMD sun 1866-08-17 0002194_18660817_art0024"
+},
+{
+"date": "1866-08-21",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-18",
+"carrier": null,
+"source": "HMD sun 1866-08-21 0002194_18660821_art0054"
+},
+{
+"date": "1866-08-22",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-20",
+"carrier": null,
+"source": "HMD sun 1866-08-22 0002194_18660822_art0054"
+},
+{
+"date": "1866-08-23",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-20",
+"carrier": null,
+"source": "HMD sun 1866-08-22 0002194_18660822_art0054"
+},
+{
+"date": "1866-08-24",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-22",
+"carrier": null,
+"source": "HMD express 1866-08-24 0002642_18660824_art0003"
+},
+{
+"date": "1866-08-25",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-23",
+"carrier": null,
+"source": "HMD sun 1866-08-25 0002194_18660825_art0014"
+},
+{
+"date": "1866-08-26",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-23",
+"carrier": null,
+"source": "HMD sun 1866-08-25 0002194_18660825_art0014"
+},
+{
+"date": "1866-08-27",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-24",
+"carrier": null,
+"source": "HMD sun 1866-08-27 0002194_18660827_art0064"
+},
+{
+"date": "1866-08-28",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-24",
+"carrier": null,
+"source": "HMD sun 1866-08-27 0002194_18660827_art0064"
+},
+{
+"date": "1866-08-29",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-27",
+"carrier": null,
+"source": "HMD express 1866-08-29 0002642_18660829_art0006"
+},
+{
+"date": "1866-08-30",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-28",
+"carrier": null,
+"source": "HMD express 1866-08-30 0002642_18660830_art0004"
+},
+{
+"date": "1866-08-31",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-30",
+"carrier": null,
+"source": "HMD sun 1866-08-31 0002194_18660831_art0033"
+},
+{
+"date": "1866-09-01",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-30",
+"carrier": null,
+"source": "HMD sun 1866-08-31 0002194_18660831_art0033"
+},
+{
+"date": "1866-09-02",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-30",
+"carrier": null,
+"source": "HMD sun 1866-08-31 0002194_18660831_art0033"
+},
+{
+"date": "1866-09-03",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-08-31",
+"carrier": null,
+"source": "HMD express 1866-09-03 0002642_18660903_art0006"
+},
+{
+"date": "1866-09-04",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-01",
+"carrier": null,
+"source": "HMD express 1866-09-04 0002642_18660904_art0003"
+},
+{
+"date": "1866-09-05",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-04",
+"carrier": null,
+"source": "HMD sun 1866-09-05 0002194_18660905_art0018"
+},
+{
+"date": "1866-09-06",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-04",
+"carrier": null,
+"source": "HMD sun 1866-09-05 0002194_18660905_art0018"
+},
+{
+"date": "1866-09-07",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-05",
+"carrier": null,
+"source": "HMD express 1866-09-07 0002642_18660907_art0005"
+},
+{
+"date": "1866-09-08",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-05",
+"carrier": null,
+"source": "HMD express 1866-09-07 0002642_18660907_art0005"
+},
+{
+"date": "1866-09-09",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-05",
+"carrier": null,
+"source": "HMD express 1866-09-07 0002642_18660907_art0005"
+},
+{
+"date": "1866-09-10",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-07",
+"carrier": null,
+"source": "HMD sun 1866-09-10 0002194_18660910_art0008"
+},
+{
+"date": "1866-09-11",
+"age_days": 1,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-10",
+"carrier": null,
+"source": "HMD express 1866-09-11 0002642_18660911_art0024"
+},
+{
+"date": "1866-09-12",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-10",
+"carrier": null,
+"source": "HMD express 1866-09-11 0002642_18660911_art0024"
+},
+{
+"date": "1866-09-13",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-11",
+"carrier": null,
+"source": "HMD sun 1866-09-13 0002194_18660913_art0016"
+},
+{
+"date": "1866-09-14",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-11",
+"carrier": null,
+"source": "HMD sun 1866-09-13 0002194_18660913_art0016"
+},
+{
+"date": "1866-09-15",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-13",
+"carrier": null,
+"source": "HMD sun 1866-09-15 0002194_18660915_art0013"
+},
+{
+"date": "1866-09-16",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-13",
+"carrier": null,
+"source": "HMD sun 1866-09-15 0002194_18660915_art0013"
+},
+{
+"date": "1866-09-17",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-13",
+"carrier": null,
+"source": "HMD sun 1866-09-15 0002194_18660915_art0013"
+},
+{
+"date": "1866-09-18",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-15",
+"carrier": null,
+"source": "HMD express 1866-09-18 0002642_18660918_art0005"
+},
+{
+"date": "1866-09-19",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-17",
+"carrier": null,
+"source": "HMD express 1866-09-19 0002642_18660919_art0005"
+},
+{
+"date": "1866-09-20",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-17",
+"carrier": null,
+"source": "HMD express 1866-09-19 0002642_18660919_art0005"
+},
+{
+"date": "1866-09-21",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-18",
+"carrier": null,
+"source": "HMD sun 1866-09-21 0002194_18660921_art0039"
+},
+{
+"date": "1866-09-22",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-20",
+"carrier": null,
+"source": "HMD sun 1866-09-22 0002194_18660922_art0106"
+},
+{
+"date": "1866-09-23",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-20",
+"carrier": null,
+"source": "HMD sun 1866-09-22 0002194_18660922_art0106"
+},
+{
+"date": "1866-09-24",
+"age_days": 4,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-20",
+"carrier": null,
+"source": "HMD sun 1866-09-22 0002194_18660922_art0106"
+},
+{
+"date": "1866-09-25",
+"age_days": 5,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-20",
+"carrier": null,
+"source": "HMD sun 1866-09-22 0002194_18660922_art0106"
+},
+{
+"date": "1866-09-26",
+"age_days": 6,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-20",
+"carrier": null,
+"source": "HMD sun 1866-09-22 0002194_18660922_art0106"
+},
+{
+"date": "1866-09-27",
+"age_days": 6,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-21",
+"carrier": null,
+"source": "HMD sun 1866-09-27 0002194_18660927_art0051"
+},
+{
+"date": "1866-09-28",
+"age_days": 6,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-22",
+"carrier": null,
+"source": "HMD sun 1866-09-28 0002194_18660928_art0050"
+},
+{
+"date": "1866-09-29",
+"age_days": 2,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-27",
+"carrier": null,
+"source": "HMD sun 1866-09-29 0002194_18660929_art0058"
+},
+{
+"date": "1866-09-30",
+"age_days": 3,
+"carrier_voyage_id": null,
+"via": "cable",
+"news_date": "1866-09-27",
+"carrier": null,
+"source": "HMD sun 1866-09-29 0002194_18660929_art0058"
+}
+],
+"liverpool": [
+{
+"date": "1866-05-01",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-05-02",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-05-03",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "arrival herald:Lc1a8adb4d1245391"
+},
+{
+"date": "1866-05-04",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "arrival herald:Lc1a8adb4d1245391"
+},
+{
+"date": "1866-05-05",
+"age_days": 14,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "arrival herald:Lc1a8adb4d1245391"
+},
+{
+"date": "1866-05-06",
+"age_days": 15,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "arrival herald:Lc1a8adb4d1245391"
+},
+{
+"date": "1866-05-07",
+"age_days": 16,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "arrival herald:Lc1a8adb4d1245391"
+},
+{
+"date": "1866-05-08",
+"age_days": 17,
+"carrier_voyage_id": "V-city-of-new-york-660421-5d3e5d",
+"via": "steamer",
+"news_date": "1866-04-21",
+"carrier": "City of New York",
+"source": "arrival herald:Lc1a8adb4d1245391"
+},
+{
+"date": "1866-05-09",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-boston-660428-a9c5f3x",
+"via": "steamer",
+"news_date": "1866-04-28",
+"carrier": "City of Boston",
+"source": "arrival herald:L2f1a1986ff61200c"
+},
+{
+"date": "1866-05-10",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-boston-660428-a9c5f3x",
+"via": "steamer",
+"news_date": "1866-04-28",
+"carrier": "City of Boston",
+"source": "arrival herald:L2f1a1986ff61200c"
+},
+{
+"date": "1866-05-11",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-boston-660428-a9c5f3x",
+"via": "steamer",
+"news_date": "1866-04-28",
+"carrier": "City of Boston",
+"source": "arrival herald:L2f1a1986ff61200c"
+},
+{
+"date": "1866-05-12",
+"age_days": 10,
+"carrier_voyage_id": "V-persia-660501-acfba7",
+"via": "steamer",
+"news_date": "1866-05-02",
+"carrier": "Persia",
+"source": "arrival herald:L43c644831a71b032"
+},
+{
+"date": "1866-05-13",
+"age_days": 11,
+"carrier_voyage_id": "V-persia-660501-acfba7",
+"via": "steamer",
+"news_date": "1866-05-02",
+"carrier": "Persia",
+"source": "arrival herald:L43c644831a71b032"
+},
+{
+"date": "1866-05-14",
+"age_days": 12,
+"carrier_voyage_id": "V-persia-660501-acfba7",
+"via": "steamer",
+"news_date": "1866-05-02",
+"carrier": "Persia",
+"source": "arrival herald:L43c644831a71b032"
+},
+{
+"date": "1866-05-15",
+"age_days": 13,
+"carrier_voyage_id": "V-persia-660501-acfba7",
+"via": "steamer",
+"news_date": "1866-05-02",
+"carrier": "Persia",
+"source": "arrival herald:L43c644831a71b032"
+},
+{
+"date": "1866-05-16",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-london-660504-9c57ff",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "City of London",
+"source": "arrival herald:Le3e1c9510ba07d1d"
+},
+{
+"date": "1866-05-17",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-london-660504-9c57ff",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "City of London",
+"source": "arrival herald:Le3e1c9510ba07d1d"
+},
+{
+"date": "1866-05-18",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-london-660504-9c57ff",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "City of London",
+"source": "arrival herald:Le3e1c9510ba07d1d"
+},
+{
+"date": "1866-05-19",
+"age_days": 14,
+"carrier_voyage_id": "V-city-of-london-660504-9c57ff",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "City of London",
+"source": "arrival herald:Le3e1c9510ba07d1d"
+},
+{
+"date": "1866-05-20",
+"age_days": 15,
+"carrier_voyage_id": "V-city-of-london-660504-9c57ff",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "City of London",
+"source": "arrival herald:Le3e1c9510ba07d1d"
+},
+{
+"date": "1866-05-21",
+"age_days": 16,
+"carrier_voyage_id": "V-city-of-london-660504-9c57ff",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "City of London",
+"source": "arrival herald:Le3e1c9510ba07d1d"
+},
+{
+"date": "1866-05-22",
+"age_days": 17,
+"carrier_voyage_id": "V-city-of-london-660504-9c57ff",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "City of London",
+"source": "arrival herald:Le3e1c9510ba07d1d"
+},
+{
+"date": "1866-05-23",
+"age_days": 18,
+"carrier_voyage_id": "V-city-of-london-660504-9c57ff",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "City of London",
+"source": "arrival herald:Le3e1c9510ba07d1d"
+},
+{
+"date": "1866-05-24",
+"age_days": 19,
+"carrier_voyage_id": "V-city-of-london-660504-9c57ff",
+"via": "steamer",
+"news_date": "1866-05-05",
+"carrier": "City of London",
+"source": "arrival herald:Le3e1c9510ba07d1d"
+},
+{
+"date": "1866-05-25",
+"age_days": 13,
+"carrier_voyage_id": "V-etna-660512-3dce24",
+"via": "steamer",
+"news_date": "1866-05-12",
+"carrier": "Etna",
+"source": "arrival herald:L9612a6cec862cf92"
+},
+{
+"date": "1866-05-26",
+"age_days": 10,
+"carrier_voyage_id": "V-scotia-660525-28e8f1x",
+"via": "steamer",
+"news_date": "1866-05-16",
+"carrier": "Scotia",
+"source": "arrival herald:L19833fc3342c1001"
+},
+{
+"date": "1866-05-27",
+"age_days": 11,
+"carrier_voyage_id": "V-scotia-660525-28e8f1x",
+"via": "steamer",
+"news_date": "1866-05-16",
+"carrier": "Scotia",
+"source": "arrival herald:L19833fc3342c1001"
+},
+{
+"date": "1866-05-28",
+"age_days": 12,
+"carrier_voyage_id": "V-scotia-660525-28e8f1x",
+"via": "steamer",
+"news_date": "1866-05-16",
+"carrier": "Scotia",
+"source": "arrival herald:L19833fc3342c1001"
+},
+{
+"date": "1866-05-29",
+"age_days": 13,
+"carrier_voyage_id": "V-scotia-660525-28e8f1x",
+"via": "steamer",
+"news_date": "1866-05-16",
+"carrier": "Scotia",
+"source": "arrival herald:L19833fc3342c1001"
+},
+{
+"date": "1866-05-30",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-paris-660518-8e5e14",
+"via": "steamer",
+"news_date": "1866-05-19",
+"carrier": "City of Paris",
+"source": "arrival lloyds:Lba8b441eaf0efac8"
+},
+{
+"date": "1866-05-31",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-paris-660518-8e5e14",
+"via": "steamer",
+"news_date": "1866-05-19",
+"carrier": "City of Paris",
+"source": "arrival lloyds:Lba8b441eaf0efac8"
+},
+{
+"date": "1866-06-01",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-paris-660518-8e5e14",
+"via": "steamer",
+"news_date": "1866-05-19",
+"carrier": "City of Paris",
+"source": "arrival lloyds:Lba8b441eaf0efac8"
+},
+{
+"date": "1866-06-02",
+"age_days": 14,
+"carrier_voyage_id": "V-city-of-paris-660518-8e5e14",
+"via": "steamer",
+"news_date": "1866-05-19",
+"carrier": "City of Paris",
+"source": "arrival lloyds:Lba8b441eaf0efac8"
+},
+{
+"date": "1866-06-03",
+"age_days": 15,
+"carrier_voyage_id": "V-city-of-paris-660518-8e5e14",
+"via": "steamer",
+"news_date": "1866-05-19",
+"carrier": "City of Paris",
+"source": "arrival lloyds:Lba8b441eaf0efac8"
+},
+{
+"date": "1866-06-04",
+"age_days": 12,
+"carrier_voyage_id": "V-tarifa-660523-322e99",
+"via": "steamer",
+"news_date": "1866-05-23",
+"carrier": "Tarifa",
+"source": "arrival herald:L928e0e63b585c6bf"
+},
+{
+"date": "1866-06-05",
+"age_days": 13,
+"carrier_voyage_id": "V-tarifa-660523-322e99",
+"via": "steamer",
+"news_date": "1866-05-23",
+"carrier": "Tarifa",
+"source": "arrival herald:L928e0e63b585c6bf"
+},
+{
+"date": "1866-06-06",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-new-york-660526-26ae2f",
+"via": "steamer",
+"news_date": "1866-05-26",
+"carrier": "City of New York",
+"source": "arrival lloyds:Lf9b09b6d7f6f41ef"
+},
+{
+"date": "1866-06-07",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-new-york-660526-26ae2f",
+"via": "steamer",
+"news_date": "1866-05-26",
+"carrier": "City of New York",
+"source": "arrival lloyds:Lf9b09b6d7f6f41ef"
+},
+{
+"date": "1866-06-08",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-new-york-660526-26ae2f",
+"via": "steamer",
+"news_date": "1866-05-26",
+"carrier": "City of New York",
+"source": "arrival lloyds:Lf9b09b6d7f6f41ef"
+},
+{
+"date": "1866-06-09",
+"age_days": 10,
+"carrier_voyage_id": "V-java-660529-03fe22",
+"via": "steamer",
+"news_date": "1866-05-30",
+"carrier": "Java",
+"source": "arrival herald:L536a62d2e1e6ea28"
+},
+{
+"date": "1866-06-10",
+"age_days": 11,
+"carrier_voyage_id": "V-java-660529-03fe22",
+"via": "steamer",
+"news_date": "1866-05-30",
+"carrier": "Java",
+"source": "arrival herald:L536a62d2e1e6ea28"
+},
+{
+"date": "1866-06-11",
+"age_days": 12,
+"carrier_voyage_id": "V-java-660529-03fe22",
+"via": "steamer",
+"news_date": "1866-05-30",
+"carrier": "Java",
+"source": "arrival herald:L536a62d2e1e6ea28"
+},
+{
+"date": "1866-06-12",
+"age_days": 13,
+"carrier_voyage_id": "V-java-660529-03fe22",
+"via": "steamer",
+"news_date": "1866-05-30",
+"carrier": "Java",
+"source": "arrival herald:L536a62d2e1e6ea28"
+},
+{
+"date": "1866-06-13",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-boston-660602-41a7b6",
+"via": "steamer",
+"news_date": "1866-06-02",
+"carrier": "City of Boston",
+"source": "arrival herald:L13461eeced888ee2"
+},
+{
+"date": "1866-06-14",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-boston-660602-41a7b6",
+"via": "steamer",
+"news_date": "1866-06-02",
+"carrier": "City of Boston",
+"source": "arrival herald:L13461eeced888ee2"
+},
+{
+"date": "1866-06-15",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-boston-660602-41a7b6",
+"via": "steamer",
+"news_date": "1866-06-02",
+"carrier": "City of Boston",
+"source": "arrival herald:L13461eeced888ee2"
+},
+{
+"date": "1866-06-16",
+"age_days": 14,
+"carrier_voyage_id": "V-city-of-boston-660602-41a7b6",
+"via": "steamer",
+"news_date": "1866-06-02",
+"carrier": "City of Boston",
+"source": "arrival herald:L13461eeced888ee2"
+},
+{
+"date": "1866-06-17",
+"age_days": 15,
+"carrier_voyage_id": "V-city-of-boston-660602-41a7b6",
+"via": "steamer",
+"news_date": "1866-06-02",
+"carrier": "City of Boston",
+"source": "arrival herald:L13461eeced888ee2"
+},
+{
+"date": "1866-06-18",
+"age_days": 16,
+"carrier_voyage_id": "V-city-of-boston-660602-41a7b6",
+"via": "steamer",
+"news_date": "1866-06-02",
+"carrier": "City of Boston",
+"source": "arrival herald:L13461eeced888ee2"
+},
+{
+"date": "1866-06-19",
+"age_days": 13,
+"carrier_voyage_id": "V-aleppo-660606-6cf22e",
+"via": "steamer",
+"news_date": "1866-06-06",
+"carrier": "Aleppo",
+"source": "arrival lloyds:L43ad281f911ae3bd"
+},
+{
+"date": "1866-06-20",
+"age_days": 14,
+"carrier_voyage_id": "V-aleppo-660606-6cf22e",
+"via": "steamer",
+"news_date": "1866-06-06",
+"carrier": "Aleppo",
+"source": "arrival lloyds:L43ad281f911ae3bd"
+},
+{
+"date": "1866-06-21",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-london-660609-bf84bd",
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": "City of London",
+"source": "arrival herald:Le338483ce8ac72b8"
+},
+{
+"date": "1866-06-22",
+"age_days": 13,
+"carrier_voyage_id": "V-city-of-london-660609-bf84bd",
+"via": "steamer",
+"news_date": "1866-06-09",
+"carrier": "City of London",
+"source": "arrival herald:Le338483ce8ac72b8"
+},
+{
+"date": "1866-06-23",
+"age_days": 10,
+"carrier_voyage_id": "V-persia-660613-674387",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Persia",
+"source": "arrival herald:L1e3bd3ec220a9a3c"
+},
+{
+"date": "1866-06-24",
+"age_days": 11,
+"carrier_voyage_id": "V-persia-660613-674387",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Persia",
+"source": "arrival herald:L1e3bd3ec220a9a3c"
+},
+{
+"date": "1866-06-25",
+"age_days": 12,
+"carrier_voyage_id": "V-persia-660613-674387",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Persia",
+"source": "arrival herald:L1e3bd3ec220a9a3c"
+},
+{
+"date": "1866-06-26",
+"age_days": 13,
+"carrier_voyage_id": "V-persia-660613-674387",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Persia",
+"source": "arrival herald:L1e3bd3ec220a9a3c"
+},
+{
+"date": "1866-06-27",
+"age_days": 14,
+"carrier_voyage_id": "V-persia-660613-674387",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Persia",
+"source": "arrival herald:L1e3bd3ec220a9a3c"
+},
+{
+"date": "1866-06-28",
+"age_days": 15,
+"carrier_voyage_id": "V-persia-660613-674387",
+"via": "steamer",
+"news_date": "1866-06-13",
+"carrier": "Persia",
+"source": "arrival herald:L1e3bd3ec220a9a3c"
+},
+{
+"date": "1866-06-29",
+"age_days": 13,
+"carrier_voyage_id": "V-denmark-660616-6c6aee",
+"via": "steamer",
+"news_date": "1866-06-16",
+"carrier": "Denmark",
+"source": "arrival herald:L5e1731ce59457d4a"
+},
+{
+"date": "1866-06-30",
+"age_days": 11,
+"carrier_voyage_id": "V-malta-660619-7a488d",
+"via": "steamer",
+"news_date": "1866-06-19",
+"carrier": "Malta",
+"source": "arrival herald:L8072d4447843ceac"
+},
+{
+"date": "1866-07-01",
+"age_days": 12,
+"carrier_voyage_id": "V-malta-660619-7a488d",
+"via": "steamer",
+"news_date": "1866-06-19",
+"carrier": "Malta",
+"source": "arrival herald:L8072d4447843ceac"
+},
+{
+"date": "1866-07-02",
+"age_days": 9,
+"carrier_voyage_id": "V-city-of-paris-660623-52a383",
+"via": "steamer",
+"news_date": "1866-06-23",
+"carrier": "City of Paris",
+"source": "arrival herald:L582d1a203b367c03"
+},
+{
+"date": "1866-07-03",
+"age_days": 10,
+"carrier_voyage_id": "V-city-of-paris-660623-52a383",
+"via": "steamer",
+"news_date": "1866-06-23",
+"carrier": "City of Paris",
+"source": "arrival herald:L582d1a203b367c03"
+},
+{
+"date": "1866-07-04",
+"age_days": 11,
+"carrier_voyage_id": "V-city-of-paris-660623-52a383",
+"via": "steamer",
+"news_date": "1866-06-23",
+"carrier": "City of Paris",
+"source": "arrival herald:L582d1a203b367c03"
+},
+{
+"date": "1866-07-05",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-paris-660623-52a383",
+"via": "steamer",
+"news_date": "1866-06-23",
+"carrier": "City of Paris",
+"source": "arrival herald:L582d1a203b367c03"
+},
+{
+"date": "1866-07-06",
+"age_days": 9,
+"carrier_voyage_id": "V-scotia-660626-6aed6d",
+"via": "steamer",
+"news_date": "1866-06-27",
+"carrier": "Scotia",
+"source": "arrival lloyds:Lf69134e739fb76f7"
+},
+{
+"date": "1866-07-07",
+"age_days": 10,
+"carrier_voyage_id": "V-scotia-660626-6aed6d",
+"via": "steamer",
+"news_date": "1866-06-27",
+"carrier": "Scotia",
+"source": "arrival lloyds:Lf69134e739fb76f7"
+},
+{
+"date": "1866-07-08",
+"age_days": 11,
+"carrier_voyage_id": "V-scotia-660626-6aed6d",
+"via": "steamer",
+"news_date": "1866-06-27",
+"carrier": "Scotia",
+"source": "arrival lloyds:Lf69134e739fb76f7"
+},
+{
+"date": "1866-07-09",
+"age_days": 12,
+"carrier_voyage_id": "V-scotia-660626-6aed6d",
+"via": "steamer",
+"news_date": "1866-06-27",
+"carrier": "Scotia",
+"source": "arrival lloyds:Lf69134e739fb76f7"
+},
+{
+"date": "1866-07-10",
+"age_days": 13,
+"carrier_voyage_id": "V-scotia-660626-6aed6d",
+"via": "steamer",
+"news_date": "1866-06-27",
+"carrier": "Scotia",
+"source": "arrival lloyds:Lf69134e739fb76f7"
+},
+{
+"date": "1866-07-11",
+"age_days": 14,
+"carrier_voyage_id": "V-scotia-660626-6aed6d",
+"via": "steamer",
+"news_date": "1866-06-27",
+"carrier": "Scotia",
+"source": "arrival lloyds:Lf69134e739fb76f7"
+},
+{
+"date": "1866-07-12",
+"age_days": 12,
+"carrier_voyage_id": "V-the-queen-660630-2700d0",
+"via": "steamer",
+"news_date": "1866-06-30",
+"carrier": "Queen",
+"source": "arrival herald:L499320ca3605e404"
+},
+{
+"date": "1866-07-13",
+"age_days": 13,
+"carrier_voyage_id": "V-the-queen-660630-2700d0",
+"via": "steamer",
+"news_date": "1866-06-30",
+"carrier": "Queen",
+"source": "arrival herald:L499320ca3605e404"
+},
+{
+"date": "1866-07-14",
+"age_days": 14,
+"carrier_voyage_id": "V-the-queen-660630-2700d0",
+"via": "steamer",
+"news_date": "1866-06-30",
+"carrier": "Queen",
+"source": "arrival herald:L499320ca3605e404"
+},
+{
+"date": "1866-07-15",
+"age_days": 15,
+"carrier_voyage_id": "V-the-queen-660630-2700d0",
+"via": "steamer",
+"news_date": "1866-06-30",
+"carrier": "Queen",
+"source": "arrival herald:L499320ca3605e404"
+},
+{
+"date": "1866-07-16",
+"age_days": 13,
+"carrier_voyage_id": "V-tarifa-660703-34d6f1",
+"via": "steamer",
+"news_date": "1866-07-03",
+"carrier": "Tarifa",
+"source": "arrival herald:L3b860e1d2245b93c"
+},
+{
+"date": "1866-07-17",
+"age_days": 14,
+"carrier_voyage_id": "V-tarifa-660703-34d6f1",
+"via": "steamer",
+"news_date": "1866-07-03",
+"carrier": "Tarifa",
+"source": "arrival herald:L3b860e1d2245b93c"
+},
+{
+"date": "1866-07-18",
+"age_days": 15,
+"carrier_voyage_id": "V-tarifa-660703-34d6f1",
+"via": "steamer",
+"news_date": "1866-07-03",
+"carrier": "Tarifa",
+"source": "arrival herald:L3b860e1d2245b93c"
+},
+{
+"date": "1866-07-19",
+"age_days": 12,
+"carrier_voyage_id": "V-city-of-boston-660707-ffd024",
+"via": "steamer",
+"news_date": "1866-07-07",
+"carrier": "City of Boston",
+"source": "arrival herald:Lccf55cea180c8660"
+},
+{
+"date": "1866-07-20",
+"age_days": 9,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "arrival herald:L64f7f4610a7c2624"
+},
+{
+"date": "1866-07-21",
+"age_days": 10,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "arrival herald:L64f7f4610a7c2624"
+},
+{
+"date": "1866-07-22",
+"age_days": 11,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "arrival herald:L64f7f4610a7c2624"
+},
+{
+"date": "1866-07-23",
+"age_days": 12,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "arrival herald:L64f7f4610a7c2624"
+},
+{
+"date": "1866-07-24",
+"age_days": 13,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "arrival herald:L64f7f4610a7c2624"
+},
+{
+"date": "1866-07-25",
+"age_days": 14,
+"carrier_voyage_id": "V-java-660710-7a2f62",
+"via": "steamer",
+"news_date": "1866-07-11",
+"carrier": "Java",
+"source": "arrival herald:L64f7f4610a7c2624"
+},
+{
+"date": "1866-07-26",
+"age_days": 12,
+"carrier_voyage_id": "V-scotland-660726-cdf693",
+"via": "steamer",
+"news_date": "1866-07-14",
+"carrier": "Scotland",
+"source": "arrival herald:L0be8f0bf6552045b"
+},
+{
+"date": "1866-07-27",
+"age_days": 13,
+"carrier_voyage_id": "V-scotland-660726-cdf693",
+"via": "steamer",
+"news_date": "1866-07-14",
+"carrier": "Scotland",
+"source": "arrival herald:L0be8f0bf6552045b"
+},
+{
+"date": "1866-07-28",
+"age_days": 14,
+"carrier_voyage_id": "V-scotland-660726-cdf693",
+"via": "steamer",
+"news_date": "1866-07-14",
+"carrier": "Scotland",
+"source": "arrival herald:L0be8f0bf6552045b"
+},
+{
+"date": "1866-07-29",
+"age_days": 15,
+"carrier_voyage_id": "V-scotland-660726-cdf693",
+"via": "steamer",
+"news_date": "1866-07-14",
+"carrier": "Scotland",
+"source": "arrival herald:L0be8f0bf6552045b"
+},
+{
+"date": "1866-07-30",
+"age_days": 13,
+"carrier_voyage_id": "V-aleppo-660717-c07f3f",
+"via": "steamer",
+"news_date": "1866-07-17",
+"carrier": "Aleppo",
+"source": "arrival herald:Ld5723030a0f9909c"
+},
+{
+"date": "1866-07-31",
+"age_days": 14,
+"carrier_voyage_id": "V-aleppo-660717-c07f3f",
+"via": "steamer",
+"news_date": "1866-07-17",
+"carrier": "Aleppo",
+"source": "arrival herald:Ld5723030a0f9909c"
+},
+{
+"date": "1866-08-01",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-02",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-03",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-04",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-05",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-06",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-07",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-08",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-09",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-10",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-11",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-12",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-13",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-14",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-15",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-16",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-17",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-18",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-19",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-20",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-21",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-22",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-23",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-24",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-25",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-26",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-27",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-28",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-29",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-30",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-08-31",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-01",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-02",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-03",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-04",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-05",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-06",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-07",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-08",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-09",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-10",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-11",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-12",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-13",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-14",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-15",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-16",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-17",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-18",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-19",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-20",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-21",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-22",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-23",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-24",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-25",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-26",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-27",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-28",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-29",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+},
+{
+"date": "1866-09-30",
+"age_days": null,
+"carrier_voyage_id": null,
+"via": null,
+"news_date": null,
+"carrier": null,
+"source": null
+}
+],
+"meta": {
+"new_york": {
+"data_status": "complete",
+"sources": [
+"New York Herald (carried_news, datelines)"
+],
+"note": "The Herald's freshest European news each day; Steinwender is a check only."
+},
+"london": {
+"data_status": "complete",
+"sources": [
+"London Sun and Express (HMD, CC BY 4.0)",
+"Lloyd's List (cross-check)"
+],
+"note": "London's freshest New York news in print each day."
+},
+"liverpool": {
+"data_status": "partial",
+"sources": [
+"Lloyd's List home-port arrivals",
+"HMD",
+"New York Herald"
+],
+"note": "Steamers from New York reported arrived at Liverpool, each with news to its sailing day; 1 May - 31 July only. News telegraphed from the Irish landing ports reached Liverpool about a day before the ship, and from 1 August New York news came by cable; there is no Liverpool-dated evidence for either yet, so those days are null."
+}
+}
+}
