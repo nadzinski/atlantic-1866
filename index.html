@@ -23,14 +23,16 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Oswald:wght@500;600&display=swap" rel="stylesheet">
 <script>
-  // theme before first paint: URL ?theme= or saved choice; "system" leaves the attribute off
+  // theme before first paint: URL ?theme=, else the visitor's own saved choice, else light (the default since
+  // 23 Nov 2026: more period-appropriate); "system" leaves the attribute off
   (function () {
     var q = new URLSearchParams(location.search).get('theme'); var t = q;
-    try { if (!t) t = localStorage.getItem('tod-theme'); } catch (e) {}
+    try { if (!t) t = localStorage.getItem('tod-theme-choice'); } catch (e) {}
+    if (!t) t = 'light';
     if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
   })();
 </script>
-  <script type="module" crossorigin src="./assets/main-BQddEX40.js"></script>
+  <script type="module" crossorigin src="./assets/main-BM-bofv1.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/kit-ZZDi59fE.js">
   <link rel="stylesheet" crossorigin href="./assets/kit-bLboDnrx.css">
   <link rel="stylesheet" crossorigin href="./assets/main-C9A6CA8R.css">
