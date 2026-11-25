@@ -23,6 +23,16 @@
   (function () { var t = new URLSearchParams(location.search).get('theme'); try { if (!t) t = localStorage.getItem('tod-theme-choice'); } catch (e) {} if (!t) t = 'light';
     if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t); })();
 </script>
+<script>
+  // visit counting: GoatCounter (no cookies, no personal data); only on the live site, never in dev or previews
+  (function () {
+    if (location.hostname !== 'atlantic-1866.com' && location.hostname !== 'www.atlantic-1866.com') return;
+    var s = document.createElement('script');
+    s.async = true; s.src = 'https://gc.zgo.at/count.js';
+    s.setAttribute('data-goatcounter', 'https://atlantic-1866.goatcounter.com/count');
+    document.head.appendChild(s);
+  })();
+</script>
   <script type="module" crossorigin src="./assets/about-BQ-nm0q8.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/kit-ZZDi59fE.js">
   <link rel="stylesheet" crossorigin href="./assets/kit-bLboDnrx.css">
